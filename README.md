@@ -5,7 +5,7 @@ DeGo Assignment TXB13 Team
 \# # Team Members
 
 \- \[ Owner ’s Name ] Miklos Schieszler
-
+\- Milena Kurtiak
 \## Project Description
 
 Credit scoring bias analysis for DEGO course .
