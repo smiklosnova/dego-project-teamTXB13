@@ -37,7 +37,8 @@
     "date_parsed":984096000000,
     "parsed_dob":984096000000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_037",
@@ -77,7 +78,8 @@
     "date_parsed":702000000000,
     "parsed_dob":702000000000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_215",
@@ -109,7 +111,8 @@
     "date_parsed":625190400000,
     "parsed_dob":625190400000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_024",
@@ -141,7 +144,8 @@
     "date_parsed":420076800000,
     "parsed_dob":420076800000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_184",
@@ -173,7 +177,8 @@
     "date_parsed":927244800000,
     "parsed_dob":927244800000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_275",
@@ -205,7 +210,8 @@
     "date_parsed":null,
     "parsed_dob":382492800000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_099",
@@ -237,7 +243,8 @@
     "date_parsed":null,
     "parsed_dob":633484800000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_246",
@@ -269,7 +276,8 @@
     "date_parsed":687139200000,
     "parsed_dob":687139200000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_042",
@@ -305,7 +313,8 @@
     "date_parsed":641779200000,
     "parsed_dob":641779200000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_348",
@@ -341,7 +350,8 @@
     "date_parsed":623980800000,
     "parsed_dob":623980800000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_309",
@@ -377,7 +387,8 @@
     "date_parsed":23587200000,
     "parsed_dob":23587200000,
     "demographics.age":55,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_320",
@@ -413,7 +424,8 @@
     "date_parsed":null,
     "parsed_dob":281318400000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_007",
@@ -449,7 +461,8 @@
     "date_parsed":613699200000,
     "parsed_dob":613699200000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_439",
@@ -489,7 +502,8 @@
     "date_parsed":198720000000,
     "parsed_dob":198720000000,
     "demographics.age":49,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_307",
@@ -521,7 +535,8 @@
     "date_parsed":null,
     "parsed_dob":648950400000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_064",
@@ -557,7 +572,8 @@
     "date_parsed":709171200000,
     "parsed_dob":709171200000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_101",
@@ -593,7 +609,8 @@
     "date_parsed":859075200000,
     "parsed_dob":859075200000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_133",
@@ -629,7 +646,8 @@
     "date_parsed":623721600000,
     "parsed_dob":623721600000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_214",
@@ -661,7 +679,8 @@
     "date_parsed":-231984000000,
     "parsed_dob":-231984000000,
     "demographics.age":63,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_078",
@@ -693,7 +712,8 @@
     "date_parsed":856828800000,
     "parsed_dob":856828800000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_317",
@@ -725,7 +745,8 @@
     "date_parsed":372988800000,
     "parsed_dob":372988800000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_173",
@@ -761,7 +782,8 @@
     "date_parsed":null,
     "parsed_dob":301104000000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_352",
@@ -797,7 +819,8 @@
     "date_parsed":-257472000000,
     "parsed_dob":-257472000000,
     "demographics.age":64,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_289",
@@ -829,7 +852,8 @@
     "date_parsed":null,
     "parsed_dob":293414400000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_458",
@@ -865,7 +889,8 @@
     "date_parsed":256435200000,
     "parsed_dob":256435200000,
     "demographics.age":48,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_080",
@@ -901,47 +926,8 @@
     "date_parsed":617932800000,
     "parsed_dob":617932800000,
     "demographics.age":36,
-    "email_valid":true
-  },
-  {
-    "_id":"app_075",
-    "spending_behavior":[
-      {
-        "category":"Shopping",
-        "amount":121
-      },
-      {
-        "category":"Transportation",
-        "amount":59
-      },
-      {
-        "category":"Entertainment",
-        "amount":882
-      }
-    ],
-    "processing_timestamp":null,
-    "applicant_info.full_name":"Margaret Williams",
-    "applicant_info.email":"",
-    "applicant_info.ssn":null,
-    "applicant_info.ip_address":null,
-    "applicant_info.gender":null,
-    "applicant_info.date_of_birth":"",
-    "applicant_info.zip_code":"",
-    "financials.annual_income":61000.0,
-    "financials.credit_history_months":29,
-    "financials.debt_to_income":0.15,
-    "financials.savings_balance":25894,
-    "decision.loan_approved":true,
-    "decision.rejection_reason":null,
-    "loan_purpose":null,
-    "decision.interest_rate":5.1,
-    "decision.approved_amount":22000.0,
-    "financials.annual_salary":null,
-    "notes":null,
-    "date_parsed":null,
-    "parsed_dob":null,
-    "demographics.age":null,
-    "email_valid":false
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_212",
@@ -973,7 +959,8 @@
     "date_parsed":881625600000,
     "parsed_dob":881625600000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_369",
@@ -1009,7 +996,8 @@
     "date_parsed":473558400000,
     "parsed_dob":473558400000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_452",
@@ -1049,7 +1037,8 @@
     "date_parsed":764553600000,
     "parsed_dob":764553600000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_127",
@@ -1089,7 +1078,8 @@
     "date_parsed":-31708800000,
     "parsed_dob":-31708800000,
     "demographics.age":57,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_167",
@@ -1125,7 +1115,8 @@
     "date_parsed":421372800000,
     "parsed_dob":421372800000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_274",
@@ -1161,7 +1152,8 @@
     "date_parsed":null,
     "parsed_dob":532828800000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_422",
@@ -1193,7 +1185,8 @@
     "date_parsed":366854400000,
     "parsed_dob":366854400000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_280",
@@ -1225,7 +1218,8 @@
     "date_parsed":539568000000,
     "parsed_dob":539568000000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_276",
@@ -1261,7 +1255,8 @@
     "date_parsed":null,
     "parsed_dob":804902400000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_386",
@@ -1293,7 +1288,8 @@
     "date_parsed":null,
     "parsed_dob":-56332800000,
     "demographics.age":57,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_178",
@@ -1329,7 +1325,8 @@
     "date_parsed":null,
     "parsed_dob":869356800000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_441",
@@ -1361,7 +1358,8 @@
     "date_parsed":534124800000,
     "parsed_dob":534124800000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_285",
@@ -1397,7 +1395,8 @@
     "date_parsed":null,
     "parsed_dob":551836800000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_232",
@@ -1437,7 +1436,8 @@
     "date_parsed":478742400000,
     "parsed_dob":478742400000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_420",
@@ -1469,7 +1469,8 @@
     "date_parsed":null,
     "parsed_dob":581385600000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_130",
@@ -1509,7 +1510,8 @@
     "date_parsed":null,
     "parsed_dob":370915200000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_169",
@@ -1541,7 +1543,8 @@
     "date_parsed":534211200000,
     "parsed_dob":534211200000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_108",
@@ -1573,7 +1576,8 @@
     "date_parsed":null,
     "parsed_dob":171936000000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_497",
@@ -1605,7 +1609,8 @@
     "date_parsed":null,
     "parsed_dob":766800000000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_174",
@@ -1637,7 +1642,8 @@
     "date_parsed":632361600000,
     "parsed_dob":632361600000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_010",
@@ -1669,7 +1675,8 @@
     "date_parsed":842054400000,
     "parsed_dob":842054400000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_486",
@@ -1701,7 +1708,8 @@
     "date_parsed":-198720000000,
     "parsed_dob":-198720000000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_367",
@@ -1737,7 +1745,8 @@
     "date_parsed":null,
     "parsed_dob":302572800000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_360",
@@ -1777,7 +1786,8 @@
     "date_parsed":61689600000,
     "parsed_dob":61689600000,
     "demographics.age":54,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_115",
@@ -1809,7 +1819,8 @@
     "date_parsed":224294400000,
     "parsed_dob":224294400000,
     "demographics.age":49,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_084",
@@ -1841,7 +1852,8 @@
     "date_parsed":512006400000,
     "parsed_dob":512006400000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_491",
@@ -1873,7 +1885,8 @@
     "date_parsed":127612800000,
     "parsed_dob":127612800000,
     "demographics.age":52,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_065",
@@ -1913,7 +1926,8 @@
     "date_parsed":718502400000,
     "parsed_dob":718502400000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_148",
@@ -1949,7 +1963,8 @@
     "date_parsed":397872000000,
     "parsed_dob":397872000000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_028",
@@ -1981,7 +1996,8 @@
     "date_parsed":494812800000,
     "parsed_dob":494812800000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_272",
@@ -2012,8 +2028,9 @@
     "notes":null,
     "date_parsed":383875200000,
     "parsed_dob":383875200000,
-    "demographics.age":43,
-    "email_valid":true
+    "demographics.age":44,
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_263",
@@ -2045,7 +2062,8 @@
     "date_parsed":440380800000,
     "parsed_dob":440380800000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_160",
@@ -2081,7 +2099,8 @@
     "date_parsed":null,
     "parsed_dob":409968000000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_228",
@@ -2117,7 +2136,8 @@
     "date_parsed":null,
     "parsed_dob":566438400000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_076",
@@ -2149,7 +2169,8 @@
     "date_parsed":662342400000,
     "parsed_dob":662342400000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_410",
@@ -2185,7 +2206,8 @@
     "date_parsed":803692800000,
     "parsed_dob":803692800000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_208",
@@ -2221,7 +2243,8 @@
     "date_parsed":-100310400000,
     "parsed_dob":-100310400000,
     "demographics.age":59,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_279",
@@ -2261,7 +2284,8 @@
     "date_parsed":408412800000,
     "parsed_dob":408412800000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_241",
@@ -2301,7 +2325,8 @@
     "date_parsed":-172886400000,
     "parsed_dob":-172886400000,
     "demographics.age":61,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_054",
@@ -2333,7 +2358,8 @@
     "date_parsed":818553600000,
     "parsed_dob":818553600000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_195",
@@ -2377,7 +2403,8 @@
     "date_parsed":701568000000,
     "parsed_dob":701568000000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_015",
@@ -2417,7 +2444,8 @@
     "date_parsed":500342400000,
     "parsed_dob":500342400000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_039",
@@ -2449,7 +2477,8 @@
     "date_parsed":null,
     "parsed_dob":275961600000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_492",
@@ -2484,8 +2513,9 @@
     "notes":null,
     "date_parsed":null,
     "parsed_dob":762652800000,
-    "demographics.age":31,
-    "email_valid":true
+    "demographics.age":32,
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_093",
@@ -2521,7 +2551,8 @@
     "date_parsed":410227200000,
     "parsed_dob":410227200000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_356",
@@ -2553,7 +2584,8 @@
     "date_parsed":537840000000,
     "parsed_dob":537840000000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_164",
@@ -2593,7 +2625,8 @@
     "date_parsed":276307200000,
     "parsed_dob":276307200000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_372",
@@ -2625,7 +2658,8 @@
     "date_parsed":null,
     "parsed_dob":-88732800000,
     "demographics.age":58,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_460",
@@ -2657,7 +2691,8 @@
     "date_parsed":581040000000,
     "parsed_dob":581040000000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_436",
@@ -2689,7 +2724,8 @@
     "date_parsed":896745600000,
     "parsed_dob":896745600000,
     "demographics.age":27,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_392",
@@ -2721,7 +2757,8 @@
     "date_parsed":null,
     "parsed_dob":912211200000,
     "demographics.age":27,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_264",
@@ -2753,7 +2790,8 @@
     "date_parsed":null,
     "parsed_dob":836438400000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_032",
@@ -2797,7 +2835,8 @@
     "date_parsed":402105600000,
     "parsed_dob":402105600000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_483",
@@ -2829,7 +2868,8 @@
     "date_parsed":179625600000,
     "parsed_dob":179625600000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_008",
@@ -2861,7 +2901,8 @@
     "date_parsed":742435200000,
     "parsed_dob":742435200000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_419",
@@ -2901,7 +2942,8 @@
     "date_parsed":558921600000,
     "parsed_dob":558921600000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_442",
@@ -2933,7 +2975,8 @@
     "date_parsed":93484800000,
     "parsed_dob":93484800000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_493",
@@ -2973,7 +3016,8 @@
     "date_parsed":96595200000,
     "parsed_dob":96595200000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_416",
@@ -3009,7 +3053,8 @@
     "date_parsed":371606400000,
     "parsed_dob":371606400000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_119",
@@ -3041,7 +3086,8 @@
     "date_parsed":693273600000,
     "parsed_dob":693273600000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_240",
@@ -3073,7 +3119,8 @@
     "date_parsed":154742400000,
     "parsed_dob":154742400000,
     "demographics.age":51,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_154",
@@ -3105,7 +3152,8 @@
     "date_parsed":null,
     "parsed_dob":503539200000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_166",
@@ -3137,7 +3185,8 @@
     "date_parsed":270950400000,
     "parsed_dob":270950400000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_100",
@@ -3173,7 +3222,8 @@
     "date_parsed":-242092800000,
     "parsed_dob":-242092800000,
     "demographics.age":63,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_107",
@@ -3209,7 +3259,8 @@
     "date_parsed":-314668800000,
     "parsed_dob":-314668800000,
     "demographics.age":66,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_088",
@@ -3241,7 +3292,8 @@
     "date_parsed":529718400000,
     "parsed_dob":529718400000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_114",
@@ -3277,7 +3329,8 @@
     "date_parsed":null,
     "parsed_dob":662860800000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_421",
@@ -3313,7 +3366,8 @@
     "date_parsed":395712000000,
     "parsed_dob":395712000000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_323",
@@ -3349,7 +3403,8 @@
     "date_parsed":null,
     "parsed_dob":374025600000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_288",
@@ -3381,7 +3436,8 @@
     "date_parsed":-225849600000,
     "parsed_dob":-225849600000,
     "demographics.age":63,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_396",
@@ -3421,7 +3477,8 @@
     "date_parsed":191635200000,
     "parsed_dob":191635200000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_371",
@@ -3457,7 +3514,8 @@
     "date_parsed":793497600000,
     "parsed_dob":793497600000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_479",
@@ -3489,7 +3547,8 @@
     "date_parsed":null,
     "parsed_dob":429408000000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_149",
@@ -3525,7 +3584,8 @@
     "date_parsed":279504000000,
     "parsed_dob":279504000000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_260",
@@ -3565,7 +3625,8 @@
     "date_parsed":null,
     "parsed_dob":-70416000000,
     "demographics.age":58,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_079",
@@ -3601,7 +3662,8 @@
     "date_parsed":94348800000,
     "parsed_dob":94348800000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_251",
@@ -3641,7 +3703,8 @@
     "date_parsed":472780800000,
     "parsed_dob":472780800000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_404",
@@ -3677,7 +3740,8 @@
     "date_parsed":500428800000,
     "parsed_dob":500428800000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_247",
@@ -3713,7 +3777,8 @@
     "date_parsed":null,
     "parsed_dob":929491200000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_162",
@@ -3753,7 +3818,8 @@
     "date_parsed":692409600000,
     "parsed_dob":692409600000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_029",
@@ -3785,7 +3851,8 @@
     "date_parsed":985305600000,
     "parsed_dob":985305600000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_345",
@@ -3817,7 +3884,8 @@
     "date_parsed":272419200000,
     "parsed_dob":272419200000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_059",
@@ -3849,7 +3917,8 @@
     "date_parsed":null,
     "parsed_dob":722304000000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_484",
@@ -3885,7 +3954,8 @@
     "date_parsed":650246400000,
     "parsed_dob":650246400000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_346",
@@ -3917,7 +3987,8 @@
     "date_parsed":310003200000,
     "parsed_dob":310003200000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_297",
@@ -3953,7 +4024,8 @@
     "date_parsed":null,
     "parsed_dob":414374400000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_223",
@@ -3985,7 +4057,8 @@
     "date_parsed":null,
     "parsed_dob":977961600000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_052",
@@ -4017,7 +4090,8 @@
     "date_parsed":-147052800000,
     "parsed_dob":-147052800000,
     "demographics.age":60,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_261",
@@ -4053,7 +4127,8 @@
     "date_parsed":null,
     "parsed_dob":94348800000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_407",
@@ -4093,7 +4168,8 @@
     "date_parsed":null,
     "parsed_dob":653011200000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_014",
@@ -4125,7 +4201,8 @@
     "date_parsed":null,
     "parsed_dob":790041600000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_143",
@@ -4157,7 +4234,8 @@
     "date_parsed":-348105600000,
     "parsed_dob":-348105600000,
     "demographics.age":67,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_036",
@@ -4189,7 +4267,8 @@
     "date_parsed":575769600000,
     "parsed_dob":575769600000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_145",
@@ -4221,7 +4300,8 @@
     "date_parsed":null,
     "parsed_dob":654998400000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_128",
@@ -4253,7 +4333,8 @@
     "date_parsed":481248000000,
     "parsed_dob":481248000000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_016",
@@ -4285,7 +4366,8 @@
     "date_parsed":-317433600000,
     "parsed_dob":-317433600000,
     "demographics.age":66,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_144",
@@ -4317,7 +4399,8 @@
     "date_parsed":842659200000,
     "parsed_dob":842659200000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_134",
@@ -4349,7 +4432,8 @@
     "date_parsed":null,
     "parsed_dob":749865600000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_238",
@@ -4389,7 +4473,8 @@
     "date_parsed":null,
     "parsed_dob":574041600000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_270",
@@ -4421,7 +4506,8 @@
     "date_parsed":750988800000,
     "parsed_dob":750988800000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_151",
@@ -4453,7 +4539,8 @@
     "date_parsed":568857600000,
     "parsed_dob":568857600000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_382",
@@ -4493,7 +4580,8 @@
     "date_parsed":780969600000,
     "parsed_dob":780969600000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_351",
@@ -4525,7 +4613,8 @@
     "date_parsed":797817600000,
     "parsed_dob":797817600000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_071",
@@ -4561,7 +4650,8 @@
     "date_parsed":255312000000,
     "parsed_dob":255312000000,
     "demographics.age":48,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_057",
@@ -4597,7 +4687,8 @@
     "date_parsed":null,
     "parsed_dob":650332800000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_278",
@@ -4629,7 +4720,8 @@
     "date_parsed":864172800000,
     "parsed_dob":864172800000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_391",
@@ -4661,7 +4753,8 @@
     "date_parsed":null,
     "parsed_dob":-213408000000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_271",
@@ -4697,7 +4790,8 @@
     "date_parsed":null,
     "parsed_dob":586051200000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_170",
@@ -4733,7 +4827,8 @@
     "date_parsed":635385600000,
     "parsed_dob":635385600000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_005",
@@ -4765,7 +4860,8 @@
     "date_parsed":null,
     "parsed_dob":-300931200000,
     "demographics.age":65,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_043",
@@ -4801,7 +4897,8 @@
     "date_parsed":493084800000,
     "parsed_dob":493084800000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_204",
@@ -4833,7 +4930,8 @@
     "date_parsed":418953600000,
     "parsed_dob":418953600000,
     "demographics.age":42,
-    "email_valid":false
+    "email_valid":false,
+    "high_dti_flag":false
   },
   {
     "_id":"app_465",
@@ -4865,7 +4963,8 @@
     "date_parsed":75945600000,
     "parsed_dob":75945600000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_448",
@@ -4897,7 +4996,8 @@
     "date_parsed":440467200000,
     "parsed_dob":440467200000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_463",
@@ -4933,7 +5033,8 @@
     "date_parsed":167702400000,
     "parsed_dob":167702400000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_109",
@@ -4973,7 +5074,8 @@
     "date_parsed":946857600000,
     "parsed_dob":946857600000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_444",
@@ -5013,7 +5115,8 @@
     "date_parsed":null,
     "parsed_dob":373075200000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_412",
@@ -5045,7 +5148,8 @@
     "date_parsed":856051200000,
     "parsed_dob":856051200000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_092",
@@ -5077,7 +5181,8 @@
     "date_parsed":875491200000,
     "parsed_dob":875491200000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_135",
@@ -5113,7 +5218,8 @@
     "date_parsed":530409600000,
     "parsed_dob":530409600000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_104",
@@ -5145,7 +5251,8 @@
     "date_parsed":86227200000,
     "parsed_dob":86227200000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_394",
@@ -5181,7 +5288,8 @@
     "date_parsed":904694400000,
     "parsed_dob":904694400000,
     "demographics.age":27,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_449",
@@ -5213,7 +5321,8 @@
     "date_parsed":-36115200000,
     "parsed_dob":-36115200000,
     "demographics.age":57,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_255",
@@ -5249,7 +5358,8 @@
     "date_parsed":null,
     "parsed_dob":673660800000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_365",
@@ -5281,7 +5391,8 @@
     "date_parsed":609033600000,
     "parsed_dob":609033600000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_500",
@@ -5313,7 +5424,8 @@
     "date_parsed":667612800000,
     "parsed_dob":667612800000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_110",
@@ -5349,7 +5461,8 @@
     "date_parsed":-236304000000,
     "parsed_dob":-236304000000,
     "demographics.age":63,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_335",
@@ -5381,7 +5494,8 @@
     "date_parsed":null,
     "parsed_dob":223344000000,
     "demographics.age":49,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_490",
@@ -5417,7 +5531,8 @@
     "date_parsed":null,
     "parsed_dob":545270400000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_258",
@@ -5457,7 +5572,8 @@
     "date_parsed":166665600000,
     "parsed_dob":166665600000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_262",
@@ -5489,7 +5605,8 @@
     "date_parsed":938476800000,
     "parsed_dob":938476800000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_303",
@@ -5529,39 +5646,8 @@
     "date_parsed":889660800000,
     "parsed_dob":889660800000,
     "demographics.age":27,
-    "email_valid":true
-  },
-  {
-    "_id":"app_290",
-    "spending_behavior":[
-      {
-        "category":"Fitness",
-        "amount":599
-      }
-    ],
-    "processing_timestamp":null,
-    "applicant_info.full_name":"Stephanie Perez",
-    "applicant_info.email":"stephanie.perez69@gmail.com",
-    "applicant_info.ssn":"866-48-3726",
-    "applicant_info.ip_address":"172.25.130.219",
-    "applicant_info.gender":"female",
-    "applicant_info.date_of_birth":"1990-01-06",
-    "applicant_info.zip_code":"90221",
-    "financials.annual_income":104000.0,
-    "financials.credit_history_months":39,
-    "financials.debt_to_income":0.27,
-    "financials.savings_balance":-5000,
-    "decision.loan_approved":true,
-    "decision.rejection_reason":null,
-    "loan_purpose":null,
-    "decision.interest_rate":4.3,
-    "decision.approved_amount":49000.0,
-    "financials.annual_salary":null,
-    "notes":null,
-    "date_parsed":631584000000,
-    "parsed_dob":631584000000,
-    "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_073",
@@ -5597,7 +5683,8 @@
     "date_parsed":null,
     "parsed_dob":476150400000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_201",
@@ -5629,7 +5716,8 @@
     "date_parsed":851990400000,
     "parsed_dob":851990400000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_156",
@@ -5661,7 +5749,8 @@
     "date_parsed":943747200000,
     "parsed_dob":943747200000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_193",
@@ -5697,7 +5786,8 @@
     "date_parsed":460252800000,
     "parsed_dob":460252800000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_294",
@@ -5729,7 +5819,8 @@
     "date_parsed":479520000000,
     "parsed_dob":479520000000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_226",
@@ -5761,7 +5852,8 @@
     "date_parsed":null,
     "parsed_dob":387936000000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_033",
@@ -5793,7 +5885,8 @@
     "date_parsed":755481600000,
     "parsed_dob":755481600000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_429",
@@ -5825,7 +5918,8 @@
     "date_parsed":null,
     "parsed_dob":825292800000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_172",
@@ -5857,43 +5951,8 @@
     "date_parsed":595728000000,
     "parsed_dob":595728000000,
     "demographics.age":37,
-    "email_valid":true
-  },
-  {
-    "_id":"app_179",
-    "spending_behavior":[
-      {
-        "category":"Utilities",
-        "amount":842
-      },
-      {
-        "category":"Healthcare",
-        "amount":392
-      }
-    ],
-    "processing_timestamp":"2026-03-15T00:00:00Z",
-    "applicant_info.full_name":"Paul Roberts",
-    "applicant_info.email":"paul.roberts46@yahoo.com",
-    "applicant_info.ssn":"880-83-3129",
-    "applicant_info.ip_address":"172.21.233.185",
-    "applicant_info.gender":"male",
-    "applicant_info.date_of_birth":"12\/07\/1993",
-    "applicant_info.zip_code":"10092",
-    "financials.annual_income":85000.0,
-    "financials.credit_history_months":30,
-    "financials.debt_to_income":0.24,
-    "financials.savings_balance":31966,
-    "decision.loan_approved":true,
-    "decision.rejection_reason":null,
-    "loan_purpose":null,
-    "decision.interest_rate":3.4,
-    "decision.approved_amount":42000.0,
-    "financials.annual_salary":null,
-    "notes":null,
-    "date_parsed":null,
-    "parsed_dob":742435200000,
-    "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_283",
@@ -5925,7 +5984,8 @@
     "date_parsed":662256000000,
     "parsed_dob":662256000000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_446",
@@ -5961,7 +6021,8 @@
     "date_parsed":null,
     "parsed_dob":892684800000,
     "demographics.age":27,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_454",
@@ -5993,7 +6054,8 @@
     "date_parsed":323740800000,
     "parsed_dob":323740800000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_027",
@@ -6025,7 +6087,8 @@
     "date_parsed":765504000000,
     "parsed_dob":765504000000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_376",
@@ -6057,7 +6120,8 @@
     "date_parsed":null,
     "parsed_dob":-39484800000,
     "demographics.age":57,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_083",
@@ -6097,7 +6161,8 @@
     "date_parsed":626140800000,
     "parsed_dob":626140800000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_379",
@@ -6133,7 +6198,8 @@
     "date_parsed":561945600000,
     "parsed_dob":561945600000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_072",
@@ -6165,7 +6231,8 @@
     "date_parsed":889833600000,
     "parsed_dob":889833600000,
     "demographics.age":27,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_408",
@@ -6201,7 +6268,8 @@
     "date_parsed":-8294400000,
     "parsed_dob":-8294400000,
     "demographics.age":56,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_384",
@@ -6233,7 +6301,8 @@
     "date_parsed":null,
     "parsed_dob":857001600000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_070",
@@ -6265,7 +6334,8 @@
     "date_parsed":null,
     "parsed_dob":318902400000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_299",
@@ -6305,7 +6375,8 @@
     "date_parsed":83808000000,
     "parsed_dob":83808000000,
     "demographics.age":53,
-    "email_valid":false
+    "email_valid":false,
+    "high_dti_flag":false
   },
   {
     "_id":"app_056",
@@ -6341,7 +6412,8 @@
     "date_parsed":346464000000,
     "parsed_dob":346464000000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_245",
@@ -6377,7 +6449,8 @@
     "date_parsed":null,
     "parsed_dob":772502400000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_489",
@@ -6413,7 +6486,8 @@
     "date_parsed":-108518400000,
     "parsed_dob":-108518400000,
     "demographics.age":59,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_230",
@@ -6445,7 +6519,8 @@
     "date_parsed":-208828800000,
     "parsed_dob":-208828800000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_216",
@@ -6481,7 +6556,8 @@
     "date_parsed":332899200000,
     "parsed_dob":332899200000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_413",
@@ -6513,7 +6589,8 @@
     "date_parsed":530236800000,
     "parsed_dob":530236800000,
     "demographics.age":39,
-    "email_valid":false
+    "email_valid":false,
+    "high_dti_flag":false
   },
   {
     "_id":"app_252",
@@ -6553,7 +6630,8 @@
     "date_parsed":1009065600000,
     "parsed_dob":1009065600000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_347",
@@ -6585,7 +6663,8 @@
     "date_parsed":284256000000,
     "parsed_dob":284256000000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_435",
@@ -6617,7 +6696,8 @@
     "date_parsed":483235200000,
     "parsed_dob":483235200000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_498",
@@ -6653,7 +6733,8 @@
     "date_parsed":624758400000,
     "parsed_dob":624758400000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_364",
@@ -6685,7 +6766,8 @@
     "date_parsed":-68860800000,
     "parsed_dob":-68860800000,
     "demographics.age":58,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_254",
@@ -6717,7 +6799,8 @@
     "date_parsed":370483200000,
     "parsed_dob":370483200000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_106",
@@ -6753,7 +6836,8 @@
     "date_parsed":935798400000,
     "parsed_dob":935798400000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_475",
@@ -6785,7 +6869,8 @@
     "date_parsed":394156800000,
     "parsed_dob":394156800000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_117",
@@ -6817,7 +6902,8 @@
     "date_parsed":361843200000,
     "parsed_dob":361843200000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_474",
@@ -6853,7 +6939,8 @@
     "date_parsed":840585600000,
     "parsed_dob":840585600000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_205",
@@ -6889,7 +6976,8 @@
     "date_parsed":486518400000,
     "parsed_dob":486518400000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_477",
@@ -6925,7 +7013,8 @@
     "date_parsed":713145600000,
     "parsed_dob":713145600000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_338",
@@ -6957,7 +7046,8 @@
     "date_parsed":435974400000,
     "parsed_dob":435974400000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_430",
@@ -6989,7 +7079,8 @@
     "date_parsed":null,
     "parsed_dob":293500800000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_330",
@@ -7021,7 +7112,8 @@
     "date_parsed":338169600000,
     "parsed_dob":338169600000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_398",
@@ -7061,7 +7153,8 @@
     "date_parsed":-1900800000,
     "parsed_dob":-1900800000,
     "demographics.age":56,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_321",
@@ -7093,7 +7186,8 @@
     "date_parsed":null,
     "parsed_dob":361065600000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_464",
@@ -7129,7 +7223,8 @@
     "date_parsed":null,
     "parsed_dob":739929600000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_427",
@@ -7161,7 +7256,8 @@
     "date_parsed":439862400000,
     "parsed_dob":439862400000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_019",
@@ -7197,7 +7293,8 @@
     "date_parsed":null,
     "parsed_dob":421977600000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_126",
@@ -7229,7 +7326,8 @@
     "date_parsed":586483200000,
     "parsed_dob":586483200000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_424",
@@ -7261,7 +7359,8 @@
     "date_parsed":null,
     "parsed_dob":440985600000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_354",
@@ -7301,7 +7400,8 @@
     "date_parsed":283651200000,
     "parsed_dob":283651200000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_060",
@@ -7341,7 +7441,8 @@
     "date_parsed":890784000000,
     "parsed_dob":890784000000,
     "demographics.age":27,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_340",
@@ -7377,7 +7478,8 @@
     "date_parsed":597628800000,
     "parsed_dob":597628800000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_353",
@@ -7409,7 +7511,8 @@
     "date_parsed":827798400000,
     "parsed_dob":827798400000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_031",
@@ -7449,7 +7552,8 @@
     "date_parsed":105408000000,
     "parsed_dob":105408000000,
     "demographics.age":52,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_332",
@@ -7481,7 +7585,8 @@
     "date_parsed":null,
     "parsed_dob":370483200000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_085",
@@ -7521,7 +7626,8 @@
     "date_parsed":947635200000,
     "parsed_dob":947635200000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_176",
@@ -7557,7 +7663,8 @@
     "date_parsed":617414400000,
     "parsed_dob":617414400000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_381",
@@ -7589,7 +7696,8 @@
     "date_parsed":null,
     "parsed_dob":807235200000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_471",
@@ -7621,7 +7729,8 @@
     "date_parsed":null,
     "parsed_dob":315014400000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_236",
@@ -7657,7 +7766,8 @@
     "date_parsed":1019606400000,
     "parsed_dob":1019606400000,
     "demographics.age":23,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_102",
@@ -7689,7 +7799,8 @@
     "date_parsed":null,
     "parsed_dob":756950400000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_400",
@@ -7721,7 +7832,8 @@
     "date_parsed":961804800000,
     "parsed_dob":961804800000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_259",
@@ -7752,8 +7864,9 @@
     "notes":null,
     "date_parsed":-184291200000,
     "parsed_dob":-184291200000,
-    "demographics.age":61,
-    "email_valid":true
+    "demographics.age":62,
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_196",
@@ -7793,7 +7906,8 @@
     "date_parsed":798076800000,
     "parsed_dob":798076800000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_387",
@@ -7833,7 +7947,8 @@
     "date_parsed":null,
     "parsed_dob":527299200000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_250",
@@ -7865,7 +7980,8 @@
     "date_parsed":null,
     "parsed_dob":861926400000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_225",
@@ -7896,8 +8012,9 @@
     "notes":null,
     "date_parsed":null,
     "parsed_dob":983404800000,
-    "demographics.age":24,
-    "email_valid":true
+    "demographics.age":25,
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_067",
@@ -7929,7 +8046,8 @@
     "date_parsed":862963200000,
     "parsed_dob":862963200000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_337",
@@ -7961,7 +8079,8 @@
     "date_parsed":null,
     "parsed_dob":743644800000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_081",
@@ -7993,7 +8112,8 @@
     "date_parsed":null,
     "parsed_dob":740188800000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_434",
@@ -8025,7 +8145,8 @@
     "date_parsed":939340800000,
     "parsed_dob":939340800000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_397",
@@ -8061,7 +8182,8 @@
     "date_parsed":null,
     "parsed_dob":346204800000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_050",
@@ -8097,7 +8219,8 @@
     "date_parsed":768182400000,
     "parsed_dob":768182400000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_220",
@@ -8129,7 +8252,8 @@
     "date_parsed":564451200000,
     "parsed_dob":564451200000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_171",
@@ -8161,7 +8285,8 @@
     "date_parsed":null,
     "parsed_dob":831513600000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_017",
@@ -8201,7 +8326,8 @@
     "date_parsed":792460800000,
     "parsed_dob":792460800000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_304",
@@ -8233,7 +8359,8 @@
     "date_parsed":365904000000,
     "parsed_dob":365904000000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_462",
@@ -8269,7 +8396,8 @@
     "date_parsed":null,
     "parsed_dob":-122169600000,
     "demographics.age":60,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_103",
@@ -8301,7 +8429,8 @@
     "date_parsed":225158400000,
     "parsed_dob":225158400000,
     "demographics.age":49,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_090",
@@ -8341,7 +8470,8 @@
     "date_parsed":675129600000,
     "parsed_dob":675129600000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_094",
@@ -8381,7 +8511,8 @@
     "date_parsed":531360000000,
     "parsed_dob":531360000000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_343",
@@ -8413,7 +8544,8 @@
     "date_parsed":null,
     "parsed_dob":287020800000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_334",
@@ -8449,7 +8581,8 @@
     "date_parsed":null,
     "parsed_dob":312854400000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_403",
@@ -8481,7 +8614,8 @@
     "date_parsed":222480000000,
     "parsed_dob":222480000000,
     "demographics.age":49,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_447",
@@ -8513,7 +8647,8 @@
     "date_parsed":null,
     "parsed_dob":-184896000000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_291",
@@ -8545,7 +8680,8 @@
     "date_parsed":643939200000,
     "parsed_dob":643939200000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_219",
@@ -8581,7 +8717,8 @@
     "date_parsed":null,
     "parsed_dob":436838400000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_478",
@@ -8613,7 +8750,8 @@
     "date_parsed":772934400000,
     "parsed_dob":772934400000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_125",
@@ -8645,7 +8783,8 @@
     "date_parsed":583200000000,
     "parsed_dob":583200000000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_242",
@@ -8681,7 +8820,8 @@
     "date_parsed":726710400000,
     "parsed_dob":726710400000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_423",
@@ -8717,7 +8857,8 @@
     "date_parsed":713923200000,
     "parsed_dob":713923200000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_438",
@@ -8757,7 +8898,8 @@
     "date_parsed":819331200000,
     "parsed_dob":819331200000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_077",
@@ -8789,7 +8931,8 @@
     "date_parsed":757900800000,
     "parsed_dob":757900800000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_194",
@@ -8821,7 +8964,8 @@
     "date_parsed":700704000000,
     "parsed_dob":700704000000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_004",
@@ -8856,8 +9000,9 @@
     "notes":null,
     "date_parsed":null,
     "parsed_dob":793929600000,
-    "demographics.age":30,
-    "email_valid":true
+    "demographics.age":31,
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_189",
@@ -8893,7 +9038,8 @@
     "date_parsed":-113270400000,
     "parsed_dob":-113270400000,
     "demographics.age":59,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_357",
@@ -8925,7 +9071,8 @@
     "date_parsed":717638400000,
     "parsed_dob":717638400000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_281",
@@ -8957,7 +9104,8 @@
     "date_parsed":589507200000,
     "parsed_dob":589507200000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_034",
@@ -8989,7 +9137,8 @@
     "date_parsed":null,
     "parsed_dob":484963200000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_451",
@@ -9021,7 +9170,8 @@
     "date_parsed":363830400000,
     "parsed_dob":363830400000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_011",
@@ -9057,7 +9207,8 @@
     "date_parsed":725673600000,
     "parsed_dob":725673600000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_469",
@@ -9093,7 +9244,8 @@
     "date_parsed":null,
     "parsed_dob":852249600000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_248",
@@ -9125,7 +9277,8 @@
     "date_parsed":-191548800000,
     "parsed_dob":-191548800000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_311",
@@ -9161,7 +9314,8 @@
     "date_parsed":1001980800000,
     "parsed_dob":1001980800000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_362",
@@ -9193,7 +9347,8 @@
     "date_parsed":977616000000,
     "parsed_dob":977616000000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_445",
@@ -9225,7 +9380,8 @@
     "date_parsed":-355968000000,
     "parsed_dob":-355968000000,
     "demographics.age":67,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_211",
@@ -9257,7 +9413,8 @@
     "date_parsed":587952000000,
     "parsed_dob":587952000000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_118",
@@ -9293,7 +9450,8 @@
     "date_parsed":-347155200000,
     "parsed_dob":-347155200000,
     "demographics.age":67,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_496",
@@ -9325,7 +9483,8 @@
     "date_parsed":311212800000,
     "parsed_dob":311212800000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_282",
@@ -9357,7 +9516,8 @@
     "date_parsed":258076800000,
     "parsed_dob":258076800000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_300",
@@ -9393,7 +9553,8 @@
     "date_parsed":null,
     "parsed_dob":645062400000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_253",
@@ -9425,7 +9586,8 @@
     "date_parsed":19180800000,
     "parsed_dob":19180800000,
     "demographics.age":55,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_393",
@@ -9465,7 +9627,8 @@
     "date_parsed":null,
     "parsed_dob":870998400000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_292",
@@ -9497,43 +9660,8 @@
     "date_parsed":null,
     "parsed_dob":448848000000,
     "demographics.age":41,
-    "email_valid":true
-  },
-  {
-    "_id":"app_120",
-    "spending_behavior":[
-      {
-        "category":"Utilities",
-        "amount":808
-      },
-      {
-        "category":"Dining",
-        "amount":590
-      }
-    ],
-    "processing_timestamp":null,
-    "applicant_info.full_name":"Carolyn Martin",
-    "applicant_info.email":"",
-    "applicant_info.ssn":null,
-    "applicant_info.ip_address":null,
-    "applicant_info.gender":"female",
-    "applicant_info.date_of_birth":"",
-    "applicant_info.zip_code":"90240",
-    "financials.annual_income":103000.0,
-    "financials.credit_history_months":96,
-    "financials.debt_to_income":0.45,
-    "financials.savings_balance":26517,
-    "decision.loan_approved":false,
-    "decision.rejection_reason":"algorithm_risk_score",
-    "loan_purpose":null,
-    "decision.interest_rate":null,
-    "decision.approved_amount":null,
-    "financials.annual_salary":null,
-    "notes":null,
-    "date_parsed":null,
-    "parsed_dob":null,
-    "demographics.age":null,
-    "email_valid":false
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_068",
@@ -9569,7 +9697,8 @@
     "date_parsed":747187200000,
     "parsed_dob":747187200000,
     "demographics.age":32,
-    "email_valid":false
+    "email_valid":false,
+    "high_dti_flag":false
   },
   {
     "_id":"app_157",
@@ -9605,7 +9734,8 @@
     "date_parsed":null,
     "parsed_dob":410054400000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_158",
@@ -9645,7 +9775,8 @@
     "date_parsed":786844800000,
     "parsed_dob":786844800000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_409",
@@ -9681,7 +9812,8 @@
     "date_parsed":574646400000,
     "parsed_dob":574646400000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_150",
@@ -9713,7 +9845,8 @@
     "date_parsed":null,
     "parsed_dob":334713600000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_213",
@@ -9745,7 +9878,8 @@
     "date_parsed":938044800000,
     "parsed_dob":938044800000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_361",
@@ -9777,7 +9911,8 @@
     "date_parsed":497145600000,
     "parsed_dob":497145600000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_040",
@@ -9809,7 +9944,8 @@
     "date_parsed":420940800000,
     "parsed_dob":420940800000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_003",
@@ -9841,7 +9977,8 @@
     "date_parsed":398995200000,
     "parsed_dob":398995200000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_433",
@@ -9873,7 +10010,8 @@
     "date_parsed":null,
     "parsed_dob":684892800000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_301",
@@ -9913,7 +10051,8 @@
     "date_parsed":353721600000,
     "parsed_dob":353721600000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_153",
@@ -9945,7 +10084,8 @@
     "date_parsed":null,
     "parsed_dob":285984000000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_363",
@@ -9977,7 +10117,8 @@
     "date_parsed":-266457600000,
     "parsed_dob":-266457600000,
     "demographics.age":64,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_459",
@@ -10009,7 +10150,8 @@
     "date_parsed":null,
     "parsed_dob":-240019200000,
     "demographics.age":63,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_265",
@@ -10041,7 +10183,8 @@
     "date_parsed":-188611200000,
     "parsed_dob":-188611200000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_243",
@@ -10073,7 +10216,8 @@
     "date_parsed":378086400000,
     "parsed_dob":378086400000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_399",
@@ -10105,7 +10249,8 @@
     "date_parsed":432604800000,
     "parsed_dob":432604800000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_326",
@@ -10145,7 +10290,8 @@
     "date_parsed":488764800000,
     "parsed_dob":488764800000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_047",
@@ -10177,7 +10323,8 @@
     "date_parsed":555638400000,
     "parsed_dob":555638400000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_155",
@@ -10209,7 +10356,8 @@
     "date_parsed":231465600000,
     "parsed_dob":231465600000,
     "demographics.age":48,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_467",
@@ -10249,7 +10397,8 @@
     "date_parsed":-295574400000,
     "parsed_dob":-295574400000,
     "demographics.age":65,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_268",
@@ -10285,7 +10434,8 @@
     "date_parsed":43027200000,
     "parsed_dob":43027200000,
     "demographics.age":54,
-    "email_valid":false
+    "email_valid":false,
+    "high_dti_flag":false
   },
   {
     "_id":"app_377",
@@ -10317,7 +10467,8 @@
     "date_parsed":654307200000,
     "parsed_dob":654307200000,
     "demographics.age":35,
-    "email_valid":false
+    "email_valid":false,
+    "high_dti_flag":false
   },
   {
     "_id":"app_331",
@@ -10349,7 +10500,8 @@
     "date_parsed":134438400000,
     "parsed_dob":134438400000,
     "demographics.age":51,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_231",
@@ -10381,7 +10533,8 @@
     "date_parsed":788572800000,
     "parsed_dob":788572800000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_206",
@@ -10413,7 +10566,8 @@
     "date_parsed":null,
     "parsed_dob":-218505600000,
     "demographics.age":63,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_499",
@@ -10445,7 +10599,8 @@
     "date_parsed":439171200000,
     "parsed_dob":439171200000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_284",
@@ -10477,7 +10632,8 @@
     "date_parsed":null,
     "parsed_dob":826675200000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_358",
@@ -10509,7 +10665,8 @@
     "date_parsed":null,
     "parsed_dob":670550400000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_175",
@@ -10545,7 +10702,8 @@
     "date_parsed":null,
     "parsed_dob":715564800000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_389",
@@ -10577,7 +10735,8 @@
     "date_parsed":988588800000,
     "parsed_dob":988588800000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_302",
@@ -10613,7 +10772,8 @@
     "date_parsed":953769600000,
     "parsed_dob":953769600000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_443",
@@ -10653,7 +10813,8 @@
     "date_parsed":185932800000,
     "parsed_dob":185932800000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_217",
@@ -10689,7 +10850,8 @@
     "date_parsed":535593600000,
     "parsed_dob":535593600000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_380",
@@ -10725,7 +10887,8 @@
     "date_parsed":null,
     "parsed_dob":-15897600000,
     "demographics.age":56,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_425",
@@ -10757,7 +10920,8 @@
     "date_parsed":513907200000,
     "parsed_dob":513907200000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_450",
@@ -10789,7 +10953,8 @@
     "date_parsed":null,
     "parsed_dob":574646400000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_181",
@@ -10821,7 +10986,8 @@
     "date_parsed":null,
     "parsed_dob":829353600000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_082",
@@ -10857,7 +11023,8 @@
     "date_parsed":875491200000,
     "parsed_dob":875491200000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_308",
@@ -10897,7 +11064,8 @@
     "date_parsed":514944000000,
     "parsed_dob":514944000000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_402",
@@ -10929,7 +11097,8 @@
     "date_parsed":-152150400000,
     "parsed_dob":-152150400000,
     "demographics.age":60,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":true
   },
   {
     "_id":"app_333",
@@ -10961,7 +11130,8 @@
     "date_parsed":381369600000,
     "parsed_dob":381369600000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_116",
@@ -10997,7 +11167,8 @@
     "date_parsed":null,
     "parsed_dob":745286400000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_417",
@@ -11033,7 +11204,8 @@
     "date_parsed":324172800000,
     "parsed_dob":324172800000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_316",
@@ -11069,7 +11241,8 @@
     "date_parsed":602812800000,
     "parsed_dob":602812800000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_385",
@@ -11105,7 +11278,8 @@
     "date_parsed":314841600000,
     "parsed_dob":314841600000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_318",
@@ -11141,7 +11315,8 @@
     "date_parsed":546393600000,
     "parsed_dob":546393600000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_485",
@@ -11177,7 +11352,8 @@
     "date_parsed":null,
     "parsed_dob":593654400000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_235",
@@ -11209,7 +11385,8 @@
     "date_parsed":null,
     "parsed_dob":872985600000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_375",
@@ -11241,7 +11418,8 @@
     "date_parsed":null,
     "parsed_dob":452822400000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_455",
@@ -11277,7 +11455,8 @@
     "date_parsed":350870400000,
     "parsed_dob":350870400000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_207",
@@ -11317,7 +11496,8 @@
     "date_parsed":null,
     "parsed_dob":961459200000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_006",
@@ -11353,7 +11533,8 @@
     "date_parsed":553046400000,
     "parsed_dob":553046400000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_339",
@@ -11389,7 +11570,8 @@
     "date_parsed":null,
     "parsed_dob":472953600000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_183",
@@ -11421,7 +11603,8 @@
     "date_parsed":null,
     "parsed_dob":906249600000,
     "demographics.age":27,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_096",
@@ -11453,7 +11636,8 @@
     "date_parsed":800582400000,
     "parsed_dob":800582400000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_237",
@@ -11489,7 +11673,8 @@
     "date_parsed":800409600000,
     "parsed_dob":800409600000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_298",
@@ -11525,7 +11710,8 @@
     "date_parsed":-242438400000,
     "parsed_dob":-242438400000,
     "demographics.age":63,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_026",
@@ -11565,7 +11751,8 @@
     "date_parsed":361324800000,
     "parsed_dob":361324800000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_383",
@@ -11597,7 +11784,8 @@
     "date_parsed":715305600000,
     "parsed_dob":715305600000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_131",
@@ -11633,7 +11821,8 @@
     "date_parsed":-315532800000,
     "parsed_dob":-315532800000,
     "demographics.age":66,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_440",
@@ -11665,7 +11854,8 @@
     "date_parsed":631152000000,
     "parsed_dob":631152000000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_138",
@@ -11705,7 +11895,8 @@
     "date_parsed":-202608000000,
     "parsed_dob":-202608000000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_002",
@@ -11737,7 +11928,8 @@
     "date_parsed":933465600000,
     "parsed_dob":933465600000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_185",
@@ -11777,7 +11969,8 @@
     "date_parsed":452995200000,
     "parsed_dob":452995200000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_267",
@@ -11817,7 +12010,8 @@
     "date_parsed":191289600000,
     "parsed_dob":191289600000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_112",
@@ -11853,7 +12047,8 @@
     "date_parsed":935625600000,
     "parsed_dob":935625600000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_030",
@@ -11885,7 +12080,8 @@
     "date_parsed":605664000000,
     "parsed_dob":605664000000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_018",
@@ -11921,7 +12117,8 @@
     "date_parsed":693446400000,
     "parsed_dob":693446400000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_239",
@@ -11953,7 +12150,8 @@
     "date_parsed":null,
     "parsed_dob":29894400000,
     "demographics.age":55,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_053",
@@ -11985,7 +12183,8 @@
     "date_parsed":null,
     "parsed_dob":533606400000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_341",
@@ -12017,7 +12216,8 @@
     "date_parsed":674092800000,
     "parsed_dob":674092800000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_142",
@@ -12049,7 +12249,8 @@
     "date_parsed":null,
     "parsed_dob":1003881600000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_035",
@@ -12088,8 +12289,9 @@
     "notes":null,
     "date_parsed":162864000000,
     "parsed_dob":162864000000,
-    "demographics.age":50,
-    "email_valid":true
+    "demographics.age":51,
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_406",
@@ -12121,7 +12323,8 @@
     "date_parsed":null,
     "parsed_dob":146448000000,
     "demographics.age":51,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_327",
@@ -12161,7 +12364,8 @@
     "date_parsed":940723200000,
     "parsed_dob":940723200000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_066",
@@ -12193,7 +12397,8 @@
     "date_parsed":null,
     "parsed_dob":939427200000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_414",
@@ -12225,7 +12430,8 @@
     "date_parsed":558748800000,
     "parsed_dob":558748800000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_374",
@@ -12261,7 +12467,8 @@
     "date_parsed":-518400000,
     "parsed_dob":-518400000,
     "demographics.age":56,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_198",
@@ -12293,7 +12500,8 @@
     "date_parsed":null,
     "parsed_dob":838339200000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_182",
@@ -12325,7 +12533,8 @@
     "date_parsed":406339200000,
     "parsed_dob":406339200000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_315",
@@ -12357,7 +12566,8 @@
     "date_parsed":null,
     "parsed_dob":239155200000,
     "demographics.age":48,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_161",
@@ -12389,7 +12599,8 @@
     "date_parsed":986515200000,
     "parsed_dob":986515200000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_328",
@@ -12429,7 +12640,8 @@
     "date_parsed":392256000000,
     "parsed_dob":392256000000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_415",
@@ -12465,7 +12677,8 @@
     "date_parsed":758332800000,
     "parsed_dob":758332800000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_199",
@@ -12501,7 +12714,8 @@
     "date_parsed":773539200000,
     "parsed_dob":773539200000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_293",
@@ -12537,7 +12751,8 @@
     "date_parsed":270432000000,
     "parsed_dob":270432000000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_227",
@@ -12569,7 +12784,8 @@
     "date_parsed":null,
     "parsed_dob":1013299200000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_021",
@@ -12601,7 +12817,8 @@
     "date_parsed":null,
     "parsed_dob":397958400000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_233",
@@ -12633,7 +12850,8 @@
     "date_parsed":672364800000,
     "parsed_dob":672364800000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_098",
@@ -12669,7 +12887,8 @@
     "date_parsed":-156384000000,
     "parsed_dob":-156384000000,
     "demographics.age":61,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_482",
@@ -12709,7 +12928,8 @@
     "date_parsed":null,
     "parsed_dob":187228800000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_146",
@@ -12745,7 +12965,8 @@
     "date_parsed":9936000000,
     "parsed_dob":9936000000,
     "demographics.age":55,
-    "email_valid":false
+    "email_valid":false,
+    "high_dti_flag":false
   },
   {
     "_id":"app_140",
@@ -12781,7 +13002,8 @@
     "date_parsed":109987200000,
     "parsed_dob":109987200000,
     "demographics.age":52,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_431",
@@ -12817,7 +13039,8 @@
     "date_parsed":null,
     "parsed_dob":-312336000000,
     "demographics.age":66,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_287",
@@ -12853,7 +13076,8 @@
     "date_parsed":338169600000,
     "parsed_dob":338169600000,
     "demographics.age":45,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_244",
@@ -12885,7 +13109,8 @@
     "date_parsed":null,
     "parsed_dob":827020800000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_113",
@@ -12921,7 +13146,8 @@
     "date_parsed":861321600000,
     "parsed_dob":861321600000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_136",
@@ -12961,7 +13187,8 @@
     "date_parsed":755740800000,
     "parsed_dob":755740800000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_152",
@@ -12993,7 +13220,8 @@
     "date_parsed":996192000000,
     "parsed_dob":996192000000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_022",
@@ -13029,7 +13257,8 @@
     "date_parsed":74736000000,
     "parsed_dob":74736000000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_048",
@@ -13061,7 +13290,8 @@
     "date_parsed":null,
     "parsed_dob":430704000000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_329",
@@ -13093,7 +13323,8 @@
     "date_parsed":-102211200000,
     "parsed_dob":-102211200000,
     "demographics.age":59,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_461",
@@ -13129,7 +13360,8 @@
     "date_parsed":866764800000,
     "parsed_dob":866764800000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_045",
@@ -13161,7 +13393,8 @@
     "date_parsed":-158630400000,
     "parsed_dob":-158630400000,
     "demographics.age":61,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_405",
@@ -13201,7 +13434,8 @@
     "date_parsed":620956800000,
     "parsed_dob":620956800000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_001",
@@ -13233,7 +13467,8 @@
     "date_parsed":517536000000,
     "parsed_dob":517536000000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_089",
@@ -13269,7 +13504,8 @@
     "date_parsed":null,
     "parsed_dob":307670400000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_197",
@@ -13305,7 +13541,8 @@
     "date_parsed":null,
     "parsed_dob":8985600000,
     "demographics.age":55,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_368",
@@ -13337,7 +13574,8 @@
     "date_parsed":841104000000,
     "parsed_dob":841104000000,
     "demographics.age":29,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_378",
@@ -13369,7 +13607,8 @@
     "date_parsed":-55036800000,
     "parsed_dob":-55036800000,
     "demographics.age":57,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_325",
@@ -13401,7 +13640,8 @@
     "date_parsed":null,
     "parsed_dob":373420800000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_041",
@@ -13437,7 +13677,8 @@
     "date_parsed":87523200000,
     "parsed_dob":87523200000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_009",
@@ -13469,7 +13710,8 @@
     "date_parsed":627523200000,
     "parsed_dob":627523200000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_470",
@@ -13505,7 +13747,8 @@
     "date_parsed":449625600000,
     "parsed_dob":449625600000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_095",
@@ -13537,7 +13780,8 @@
     "date_parsed":516240000000,
     "parsed_dob":516240000000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_055",
@@ -13577,7 +13821,8 @@
     "date_parsed":279590400000,
     "parsed_dob":279590400000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_428",
@@ -13609,7 +13854,8 @@
     "date_parsed":-202521600000,
     "parsed_dob":-202521600000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_366",
@@ -13649,7 +13895,8 @@
     "date_parsed":659923200000,
     "parsed_dob":659923200000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_187",
@@ -13681,7 +13928,8 @@
     "date_parsed":646444800000,
     "parsed_dob":646444800000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_188",
@@ -13717,7 +13965,8 @@
     "date_parsed":544406400000,
     "parsed_dob":544406400000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_129",
@@ -13749,7 +13998,8 @@
     "date_parsed":485222400000,
     "parsed_dob":485222400000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_091",
@@ -13781,7 +14031,8 @@
     "date_parsed":null,
     "parsed_dob":594604800000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_319",
@@ -13813,7 +14064,8 @@
     "date_parsed":807235200000,
     "parsed_dob":807235200000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_488",
@@ -13849,7 +14101,8 @@
     "date_parsed":945129600000,
     "parsed_dob":945129600000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_295",
@@ -13885,7 +14138,8 @@
     "date_parsed":572313600000,
     "parsed_dob":572313600000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_256",
@@ -13921,7 +14175,8 @@
     "date_parsed":null,
     "parsed_dob":799459200000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_221",
@@ -13953,7 +14208,8 @@
     "date_parsed":956275200000,
     "parsed_dob":956275200000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_139",
@@ -13985,7 +14241,8 @@
     "date_parsed":93052800000,
     "parsed_dob":93052800000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_038",
@@ -14017,7 +14274,8 @@
     "date_parsed":292204800000,
     "parsed_dob":292204800000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_495",
@@ -14049,7 +14307,8 @@
     "date_parsed":-209260800000,
     "parsed_dob":-209260800000,
     "demographics.age":62,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_480",
@@ -14081,7 +14340,8 @@
     "date_parsed":-5270400000,
     "parsed_dob":-5270400000,
     "demographics.age":56,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_202",
@@ -14121,7 +14381,8 @@
     "date_parsed":825120000000,
     "parsed_dob":825120000000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_209",
@@ -14157,7 +14418,8 @@
     "date_parsed":null,
     "parsed_dob":574473600000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_426",
@@ -14189,7 +14451,8 @@
     "date_parsed":null,
     "parsed_dob":5961600000,
     "demographics.age":55,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_203",
@@ -14221,7 +14484,8 @@
     "date_parsed":751852800000,
     "parsed_dob":751852800000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_147",
@@ -14261,7 +14525,8 @@
     "date_parsed":272073600000,
     "parsed_dob":272073600000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_069",
@@ -14293,7 +14558,8 @@
     "date_parsed":-275097600000,
     "parsed_dob":-275097600000,
     "demographics.age":64,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_395",
@@ -14325,7 +14591,8 @@
     "date_parsed":496540800000,
     "parsed_dob":496540800000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_123",
@@ -14357,7 +14624,8 @@
     "date_parsed":null,
     "parsed_dob":39225600000,
     "demographics.age":54,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_087",
@@ -14393,7 +14661,8 @@
     "date_parsed":537753600000,
     "parsed_dob":537753600000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_487",
@@ -14425,7 +14694,8 @@
     "date_parsed":530928000000,
     "parsed_dob":530928000000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_046",
@@ -14465,7 +14735,8 @@
     "date_parsed":232329600000,
     "parsed_dob":232329600000,
     "demographics.age":48,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_058",
@@ -14497,7 +14768,8 @@
     "date_parsed":null,
     "parsed_dob":6393600000,
     "demographics.age":55,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_359",
@@ -14533,7 +14805,8 @@
     "date_parsed":857865600000,
     "parsed_dob":857865600000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_344",
@@ -14565,7 +14838,8 @@
     "date_parsed":null,
     "parsed_dob":1011312000000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_124",
@@ -14597,7 +14871,8 @@
     "date_parsed":null,
     "parsed_dob":664156800000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_277",
@@ -14629,7 +14904,8 @@
     "date_parsed":null,
     "parsed_dob":-287452800000,
     "demographics.age":65,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_044",
@@ -14661,7 +14937,8 @@
     "date_parsed":696988800000,
     "parsed_dob":696988800000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_190",
@@ -14701,7 +14978,8 @@
     "date_parsed":939081600000,
     "parsed_dob":939081600000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_373",
@@ -14737,7 +15015,8 @@
     "date_parsed":586310400000,
     "parsed_dob":586310400000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_355",
@@ -14769,7 +15048,8 @@
     "date_parsed":143856000000,
     "parsed_dob":143856000000,
     "demographics.age":51,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_457",
@@ -14809,7 +15089,8 @@
     "date_parsed":null,
     "parsed_dob":-161568000000,
     "demographics.age":61,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_074",
@@ -14845,7 +15126,8 @@
     "date_parsed":null,
     "parsed_dob":922579200000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_312",
@@ -14881,7 +15163,8 @@
     "date_parsed":794880000000,
     "parsed_dob":794880000000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_411",
@@ -14913,7 +15196,8 @@
     "date_parsed":null,
     "parsed_dob":764208000000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_390",
@@ -14949,7 +15233,8 @@
     "date_parsed":268963200000,
     "parsed_dob":268963200000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_013",
@@ -14981,7 +15266,8 @@
     "date_parsed":619833600000,
     "parsed_dob":619833600000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_401",
@@ -15013,7 +15299,8 @@
     "date_parsed":null,
     "parsed_dob":68688000000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_313",
@@ -15049,7 +15336,8 @@
     "date_parsed":668908800000,
     "parsed_dob":668908800000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_418",
@@ -15081,7 +15369,8 @@
     "date_parsed":null,
     "parsed_dob":170726400000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_141",
@@ -15113,7 +15402,8 @@
     "date_parsed":398563200000,
     "parsed_dob":398563200000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_105",
@@ -15149,7 +15439,8 @@
     "date_parsed":507254400000,
     "parsed_dob":507254400000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_159",
@@ -15185,39 +15476,8 @@
     "date_parsed":null,
     "parsed_dob":-291081600000,
     "demographics.age":65,
-    "email_valid":true
-  },
-  {
-    "_id":"app_051",
-    "spending_behavior":[
-      {
-        "category":"Dining",
-        "amount":251
-      }
-    ],
-    "processing_timestamp":"2027-01-20T00:00:00Z",
-    "applicant_info.full_name":"Nicholas Thompson",
-    "applicant_info.email":"nicholas.thompson68@icloud.com",
-    "applicant_info.ssn":"700-28-7948",
-    "applicant_info.ip_address":"172.16.4.236",
-    "applicant_info.gender":"male",
-    "applicant_info.date_of_birth":"07\/15\/1999",
-    "applicant_info.zip_code":"10060",
-    "financials.annual_income":35000.0,
-    "financials.credit_history_months":77,
-    "financials.debt_to_income":0.2,
-    "financials.savings_balance":9646,
-    "decision.loan_approved":false,
-    "decision.rejection_reason":"low_income",
-    "loan_purpose":null,
-    "decision.interest_rate":null,
-    "decision.approved_amount":null,
-    "financials.annual_salary":null,
-    "notes":null,
-    "date_parsed":null,
-    "parsed_dob":931996800000,
-    "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_229",
@@ -15253,7 +15513,8 @@
     "date_parsed":965001600000,
     "parsed_dob":965001600000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_349",
@@ -15289,7 +15550,8 @@
     "date_parsed":null,
     "parsed_dob":604195200000,
     "demographics.age":37,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_025",
@@ -15321,7 +15583,8 @@
     "date_parsed":-130982400000,
     "parsed_dob":-130982400000,
     "demographics.age":60,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_456",
@@ -15353,7 +15616,8 @@
     "date_parsed":294451200000,
     "parsed_dob":294451200000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_111",
@@ -15389,7 +15653,8 @@
     "date_parsed":936489600000,
     "parsed_dob":936489600000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_180",
@@ -15429,43 +15694,8 @@
     "date_parsed":null,
     "parsed_dob":-6825600000,
     "demographics.age":56,
-    "email_valid":true
-  },
-  {
-    "_id":"app_350",
-    "spending_behavior":[
-      {
-        "category":"Utilities",
-        "amount":876
-      },
-      {
-        "category":"Entertainment",
-        "amount":670
-      }
-    ],
-    "processing_timestamp":null,
-    "applicant_info.full_name":"Linda Adams",
-    "applicant_info.email":"",
-    "applicant_info.ssn":"356-98-8263",
-    "applicant_info.ip_address":"10.207.183.196",
-    "applicant_info.gender":"female",
-    "applicant_info.date_of_birth":"",
-    "applicant_info.zip_code":"90291",
-    "financials.annual_income":89000.0,
-    "financials.credit_history_months":52,
-    "financials.debt_to_income":0.2,
-    "financials.savings_balance":14377,
-    "decision.loan_approved":true,
-    "decision.rejection_reason":null,
-    "loan_purpose":null,
-    "decision.interest_rate":4.1,
-    "decision.approved_amount":67000.0,
-    "financials.annual_salary":null,
-    "notes":null,
-    "date_parsed":null,
-    "parsed_dob":null,
-    "demographics.age":null,
-    "email_valid":false
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_061",
@@ -15501,7 +15731,8 @@
     "date_parsed":null,
     "parsed_dob":482803200000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_370",
@@ -15541,7 +15772,8 @@
     "date_parsed":null,
     "parsed_dob":186883200000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_121",
@@ -15581,7 +15813,8 @@
     "date_parsed":null,
     "parsed_dob":453945600000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_257",
@@ -15613,7 +15846,8 @@
     "date_parsed":null,
     "parsed_dob":494985600000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_466",
@@ -15645,7 +15879,8 @@
     "date_parsed":null,
     "parsed_dob":753494400000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_388",
@@ -15677,7 +15912,8 @@
     "date_parsed":726019200000,
     "parsed_dob":726019200000,
     "demographics.age":33,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_494",
@@ -15713,7 +15949,8 @@
     "date_parsed":null,
     "parsed_dob":941932800000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_210",
@@ -15745,7 +15982,8 @@
     "date_parsed":424828800000,
     "parsed_dob":424828800000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_168",
@@ -15781,7 +16019,8 @@
     "date_parsed":859766400000,
     "parsed_dob":859766400000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_097",
@@ -15817,7 +16056,8 @@
     "date_parsed":216345600000,
     "parsed_dob":216345600000,
     "demographics.age":49,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_432",
@@ -15849,7 +16089,8 @@
     "date_parsed":1002153600000,
     "parsed_dob":1002153600000,
     "demographics.age":24,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_023",
@@ -15889,43 +16130,8 @@
     "date_parsed":900979200000,
     "parsed_dob":900979200000,
     "demographics.age":27,
-    "email_valid":true
-  },
-  {
-    "_id":"app_165",
-    "spending_behavior":[
-      {
-        "category":"Dining",
-        "amount":435
-      },
-      {
-        "category":"Insurance",
-        "amount":508
-      }
-    ],
-    "processing_timestamp":"2024-01-15T00:00:00Z",
-    "applicant_info.full_name":"Brandon Moore",
-    "applicant_info.email":"",
-    "applicant_info.ssn":null,
-    "applicant_info.ip_address":null,
-    "applicant_info.gender":"male",
-    "applicant_info.date_of_birth":"",
-    "applicant_info.zip_code":"10077",
-    "financials.annual_income":66000.0,
-    "financials.credit_history_months":6,
-    "financials.debt_to_income":0.16,
-    "financials.savings_balance":36936,
-    "decision.loan_approved":true,
-    "decision.rejection_reason":null,
-    "loan_purpose":null,
-    "decision.interest_rate":5.6,
-    "decision.approved_amount":53000.0,
-    "financials.annual_salary":null,
-    "notes":null,
-    "date_parsed":null,
-    "parsed_dob":null,
-    "demographics.age":null,
-    "email_valid":false
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_020",
@@ -15957,7 +16163,8 @@
     "date_parsed":null,
     "parsed_dob":251769600000,
     "demographics.age":48,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_186",
@@ -15997,7 +16204,8 @@
     "date_parsed":526521600000,
     "parsed_dob":526521600000,
     "demographics.age":39,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_310",
@@ -16033,7 +16241,8 @@
     "date_parsed":636681600000,
     "parsed_dob":636681600000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_342",
@@ -16065,7 +16274,8 @@
     "date_parsed":425606400000,
     "parsed_dob":425606400000,
     "demographics.age":42,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_086",
@@ -16101,7 +16311,8 @@
     "date_parsed":null,
     "parsed_dob":736646400000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_286",
@@ -16137,7 +16348,8 @@
     "date_parsed":748396800000,
     "parsed_dob":748396800000,
     "demographics.age":32,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_132",
@@ -16173,7 +16385,8 @@
     "date_parsed":null,
     "parsed_dob":186192000000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_296",
@@ -16205,7 +16418,8 @@
     "date_parsed":552960000000,
     "parsed_dob":552960000000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_249",
@@ -16241,7 +16455,8 @@
     "date_parsed":-350784000000,
     "parsed_dob":-350784000000,
     "demographics.age":67,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_063",
@@ -16277,7 +16492,8 @@
     "date_parsed":860025600000,
     "parsed_dob":860025600000,
     "demographics.age":28,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_314",
@@ -16313,7 +16529,8 @@
     "date_parsed":820627200000,
     "parsed_dob":820627200000,
     "demographics.age":30,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_062",
@@ -16353,7 +16570,8 @@
     "date_parsed":290131200000,
     "parsed_dob":290131200000,
     "demographics.age":46,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_137",
@@ -16385,7 +16603,8 @@
     "date_parsed":640396800000,
     "parsed_dob":640396800000,
     "demographics.age":35,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_336",
@@ -16421,7 +16640,8 @@
     "date_parsed":null,
     "parsed_dob":572832000000,
     "demographics.age":38,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_322",
@@ -16453,7 +16673,8 @@
     "date_parsed":null,
     "parsed_dob":698889600000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_473",
@@ -16485,7 +16706,8 @@
     "date_parsed":683164800000,
     "parsed_dob":683164800000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_122",
@@ -16525,7 +16747,8 @@
     "date_parsed":-159494400000,
     "parsed_dob":-159494400000,
     "demographics.age":61,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_222",
@@ -16561,7 +16784,8 @@
     "date_parsed":-130982400000,
     "parsed_dob":-130982400000,
     "demographics.age":60,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_481",
@@ -16593,7 +16817,8 @@
     "date_parsed":null,
     "parsed_dob":491270400000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_218",
@@ -16625,7 +16850,8 @@
     "date_parsed":387158400000,
     "parsed_dob":387158400000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_476",
@@ -16665,7 +16891,8 @@
     "date_parsed":178761600000,
     "parsed_dob":178761600000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_191",
@@ -16705,7 +16932,8 @@
     "date_parsed":-325728000000,
     "parsed_dob":-325728000000,
     "demographics.age":66,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_177",
@@ -16737,7 +16965,8 @@
     "date_parsed":null,
     "parsed_dob":633225600000,
     "demographics.age":36,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_453",
@@ -16773,7 +17002,8 @@
     "date_parsed":null,
     "parsed_dob":955584000000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_269",
@@ -16813,7 +17043,8 @@
     "date_parsed":null,
     "parsed_dob":471312000000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_273",
@@ -16849,7 +17080,8 @@
     "date_parsed":793411200000,
     "parsed_dob":793411200000,
     "demographics.age":31,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_472",
@@ -16885,7 +17117,8 @@
     "date_parsed":229392000000,
     "parsed_dob":229392000000,
     "demographics.age":48,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_224",
@@ -16917,7 +17150,8 @@
     "date_parsed":-49766400000,
     "parsed_dob":-49766400000,
     "demographics.age":57,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_012",
@@ -16953,7 +17187,8 @@
     "date_parsed":86313600000,
     "parsed_dob":86313600000,
     "demographics.age":53,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_437",
@@ -16985,7 +17220,8 @@
     "date_parsed":null,
     "parsed_dob":696902400000,
     "demographics.age":34,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_305",
@@ -17021,7 +17257,8 @@
     "date_parsed":450316800000,
     "parsed_dob":450316800000,
     "demographics.age":41,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_266",
@@ -17060,8 +17297,9 @@
     "notes":null,
     "date_parsed":null,
     "parsed_dob":794275200000,
-    "demographics.age":30,
-    "email_valid":true
+    "demographics.age":31,
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_324",
@@ -17093,7 +17331,8 @@
     "date_parsed":null,
     "parsed_dob":391564800000,
     "demographics.age":43,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_049",
@@ -17133,7 +17372,8 @@
     "date_parsed":null,
     "parsed_dob":958953600000,
     "demographics.age":25,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_468",
@@ -17165,7 +17405,8 @@
     "date_parsed":927417600000,
     "parsed_dob":927417600000,
     "demographics.age":26,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_192",
@@ -17197,7 +17438,8 @@
     "date_parsed":null,
     "parsed_dob":500860800000,
     "demographics.age":40,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_234",
@@ -17229,7 +17471,8 @@
     "date_parsed":null,
     "parsed_dob":191721600000,
     "demographics.age":50,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_306",
@@ -17261,7 +17504,8 @@
     "date_parsed":270259200000,
     "parsed_dob":270259200000,
     "demographics.age":47,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   },
   {
     "_id":"app_163",
@@ -17293,6 +17537,7 @@
     "date_parsed":null,
     "parsed_dob":360374400000,
     "demographics.age":44,
-    "email_valid":true
+    "email_valid":true,
+    "high_dti_flag":false
   }
 ]
