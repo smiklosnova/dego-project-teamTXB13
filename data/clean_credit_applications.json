@@ -36,6 +36,7 @@
     "notes":null,
     "date_parsed":984096000000,
     "parsed_dob":984096000000,
+    "is_ambiguous_date":false,
     "demographics.age":24,
     "email_valid":true,
     "high_dti_flag":false
@@ -77,6 +78,7 @@
     "notes":null,
     "date_parsed":702000000000,
     "parsed_dob":702000000000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -110,6 +112,7 @@
     "notes":null,
     "date_parsed":625190400000,
     "parsed_dob":625190400000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -143,6 +146,7 @@
     "notes":null,
     "date_parsed":420076800000,
     "parsed_dob":420076800000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -176,6 +180,7 @@
     "notes":null,
     "date_parsed":927244800000,
     "parsed_dob":927244800000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -208,8 +213,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":382492800000,
-    "demographics.age":44,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -241,8 +247,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":633484800000,
-    "demographics.age":36,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -275,6 +282,7 @@
     "notes":null,
     "date_parsed":687139200000,
     "parsed_dob":687139200000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -312,6 +320,7 @@
     "notes":null,
     "date_parsed":641779200000,
     "parsed_dob":641779200000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -349,6 +358,7 @@
     "notes":null,
     "date_parsed":623980800000,
     "parsed_dob":623980800000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -386,6 +396,7 @@
     "notes":null,
     "date_parsed":23587200000,
     "parsed_dob":23587200000,
+    "is_ambiguous_date":false,
     "demographics.age":55,
     "email_valid":true,
     "high_dti_flag":false
@@ -422,8 +433,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":281318400000,
-    "demographics.age":47,
+    "parsed_dob":253411200000,
+    "is_ambiguous_date":true,
+    "demographics.age":48,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -460,6 +472,7 @@
     "notes":null,
     "date_parsed":613699200000,
     "parsed_dob":613699200000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -501,6 +514,7 @@
     "notes":null,
     "date_parsed":198720000000,
     "parsed_dob":198720000000,
+    "is_ambiguous_date":false,
     "demographics.age":49,
     "email_valid":true,
     "high_dti_flag":false
@@ -533,8 +547,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":648950400000,
-    "demographics.age":35,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -571,6 +586,7 @@
     "notes":null,
     "date_parsed":709171200000,
     "parsed_dob":709171200000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -608,6 +624,7 @@
     "notes":null,
     "date_parsed":859075200000,
     "parsed_dob":859075200000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -645,6 +662,7 @@
     "notes":null,
     "date_parsed":623721600000,
     "parsed_dob":623721600000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -678,6 +696,7 @@
     "notes":null,
     "date_parsed":-231984000000,
     "parsed_dob":-231984000000,
+    "is_ambiguous_date":false,
     "demographics.age":63,
     "email_valid":true,
     "high_dti_flag":false
@@ -711,6 +730,7 @@
     "notes":null,
     "date_parsed":856828800000,
     "parsed_dob":856828800000,
+    "is_ambiguous_date":false,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -744,6 +764,7 @@
     "notes":null,
     "date_parsed":372988800000,
     "parsed_dob":372988800000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -780,8 +801,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":301104000000,
-    "demographics.age":46,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -818,6 +840,7 @@
     "notes":null,
     "date_parsed":-257472000000,
     "parsed_dob":-257472000000,
+    "is_ambiguous_date":false,
     "demographics.age":64,
     "email_valid":true,
     "high_dti_flag":false
@@ -850,8 +873,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":293414400000,
-    "demographics.age":46,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -888,6 +912,7 @@
     "notes":null,
     "date_parsed":256435200000,
     "parsed_dob":256435200000,
+    "is_ambiguous_date":false,
     "demographics.age":48,
     "email_valid":true,
     "high_dti_flag":false
@@ -925,6 +950,7 @@
     "notes":null,
     "date_parsed":617932800000,
     "parsed_dob":617932800000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -958,6 +984,7 @@
     "notes":null,
     "date_parsed":881625600000,
     "parsed_dob":881625600000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -995,6 +1022,7 @@
     "notes":null,
     "date_parsed":473558400000,
     "parsed_dob":473558400000,
+    "is_ambiguous_date":false,
     "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
@@ -1036,6 +1064,7 @@
     "notes":null,
     "date_parsed":764553600000,
     "parsed_dob":764553600000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -1077,6 +1106,7 @@
     "notes":null,
     "date_parsed":-31708800000,
     "parsed_dob":-31708800000,
+    "is_ambiguous_date":false,
     "demographics.age":57,
     "email_valid":true,
     "high_dti_flag":false
@@ -1114,6 +1144,7 @@
     "notes":null,
     "date_parsed":421372800000,
     "parsed_dob":421372800000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -1150,8 +1181,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":532828800000,
-    "demographics.age":39,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1184,6 +1216,7 @@
     "notes":null,
     "date_parsed":366854400000,
     "parsed_dob":366854400000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -1217,6 +1250,7 @@
     "notes":null,
     "date_parsed":539568000000,
     "parsed_dob":539568000000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -1253,8 +1287,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":804902400000,
-    "demographics.age":30,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1286,8 +1321,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-56332800000,
-    "demographics.age":57,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1323,8 +1359,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":869356800000,
-    "demographics.age":28,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1357,6 +1394,7 @@
     "notes":null,
     "date_parsed":534124800000,
     "parsed_dob":534124800000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -1393,8 +1431,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":551836800000,
-    "demographics.age":38,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1435,7 +1474,8 @@
     "notes":null,
     "date_parsed":478742400000,
     "parsed_dob":478742400000,
-    "demographics.age":40,
+    "is_ambiguous_date":false,
+    "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1467,8 +1507,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":581385600000,
-    "demographics.age":37,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1508,7 +1549,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":370915200000,
+    "parsed_dob":353030400000,
+    "is_ambiguous_date":true,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -1542,6 +1584,7 @@
     "notes":null,
     "date_parsed":534211200000,
     "parsed_dob":534211200000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -1574,8 +1617,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":171936000000,
-    "demographics.age":50,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1607,8 +1651,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":766800000000,
-    "demographics.age":31,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -1641,6 +1686,7 @@
     "notes":null,
     "date_parsed":632361600000,
     "parsed_dob":632361600000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -1674,6 +1720,7 @@
     "notes":null,
     "date_parsed":842054400000,
     "parsed_dob":842054400000,
+    "is_ambiguous_date":false,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -1707,6 +1754,7 @@
     "notes":null,
     "date_parsed":-198720000000,
     "parsed_dob":-198720000000,
+    "is_ambiguous_date":false,
     "demographics.age":62,
     "email_valid":true,
     "high_dti_flag":false
@@ -1743,7 +1791,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":302572800000,
+    "parsed_dob":292377600000,
+    "is_ambiguous_date":true,
     "demographics.age":46,
     "email_valid":true,
     "high_dti_flag":false
@@ -1785,6 +1834,7 @@
     "notes":null,
     "date_parsed":61689600000,
     "parsed_dob":61689600000,
+    "is_ambiguous_date":false,
     "demographics.age":54,
     "email_valid":true,
     "high_dti_flag":false
@@ -1818,6 +1868,7 @@
     "notes":null,
     "date_parsed":224294400000,
     "parsed_dob":224294400000,
+    "is_ambiguous_date":false,
     "demographics.age":49,
     "email_valid":true,
     "high_dti_flag":false
@@ -1851,6 +1902,7 @@
     "notes":null,
     "date_parsed":512006400000,
     "parsed_dob":512006400000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -1884,6 +1936,7 @@
     "notes":null,
     "date_parsed":127612800000,
     "parsed_dob":127612800000,
+    "is_ambiguous_date":false,
     "demographics.age":52,
     "email_valid":true,
     "high_dti_flag":false
@@ -1925,6 +1978,7 @@
     "notes":null,
     "date_parsed":718502400000,
     "parsed_dob":718502400000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -1962,6 +2016,7 @@
     "notes":null,
     "date_parsed":397872000000,
     "parsed_dob":397872000000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -1995,6 +2050,7 @@
     "notes":null,
     "date_parsed":494812800000,
     "parsed_dob":494812800000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -2028,6 +2084,7 @@
     "notes":null,
     "date_parsed":383875200000,
     "parsed_dob":383875200000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -2061,6 +2118,7 @@
     "notes":null,
     "date_parsed":440380800000,
     "parsed_dob":440380800000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -2097,8 +2155,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":409968000000,
-    "demographics.age":43,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -2134,8 +2193,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":566438400000,
-    "demographics.age":38,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -2168,6 +2228,7 @@
     "notes":null,
     "date_parsed":662342400000,
     "parsed_dob":662342400000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -2205,6 +2266,7 @@
     "notes":null,
     "date_parsed":803692800000,
     "parsed_dob":803692800000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -2242,6 +2304,7 @@
     "notes":null,
     "date_parsed":-100310400000,
     "parsed_dob":-100310400000,
+    "is_ambiguous_date":false,
     "demographics.age":59,
     "email_valid":true,
     "high_dti_flag":false
@@ -2283,6 +2346,7 @@
     "notes":null,
     "date_parsed":408412800000,
     "parsed_dob":408412800000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -2324,6 +2388,7 @@
     "notes":null,
     "date_parsed":-172886400000,
     "parsed_dob":-172886400000,
+    "is_ambiguous_date":false,
     "demographics.age":61,
     "email_valid":true,
     "high_dti_flag":false
@@ -2357,6 +2422,7 @@
     "notes":null,
     "date_parsed":818553600000,
     "parsed_dob":818553600000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -2402,6 +2468,7 @@
     "notes":null,
     "date_parsed":701568000000,
     "parsed_dob":701568000000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -2443,6 +2510,7 @@
     "notes":null,
     "date_parsed":500342400000,
     "parsed_dob":500342400000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -2475,8 +2543,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":275961600000,
-    "demographics.age":47,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -2512,8 +2581,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":762652800000,
-    "demographics.age":32,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -2550,6 +2620,7 @@
     "notes":null,
     "date_parsed":410227200000,
     "parsed_dob":410227200000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -2583,6 +2654,7 @@
     "notes":null,
     "date_parsed":537840000000,
     "parsed_dob":537840000000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -2624,6 +2696,7 @@
     "notes":null,
     "date_parsed":276307200000,
     "parsed_dob":276307200000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -2656,7 +2729,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-88732800000,
+    "parsed_dob":-68256000000,
+    "is_ambiguous_date":true,
     "demographics.age":58,
     "email_valid":true,
     "high_dti_flag":false
@@ -2690,6 +2764,7 @@
     "notes":null,
     "date_parsed":581040000000,
     "parsed_dob":581040000000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -2723,6 +2798,7 @@
     "notes":null,
     "date_parsed":896745600000,
     "parsed_dob":896745600000,
+    "is_ambiguous_date":false,
     "demographics.age":27,
     "email_valid":true,
     "high_dti_flag":false
@@ -2755,8 +2831,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":912211200000,
-    "demographics.age":27,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -2788,8 +2865,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":836438400000,
-    "demographics.age":29,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -2834,6 +2912,7 @@
     "notes":null,
     "date_parsed":402105600000,
     "parsed_dob":402105600000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -2867,6 +2946,7 @@
     "notes":null,
     "date_parsed":179625600000,
     "parsed_dob":179625600000,
+    "is_ambiguous_date":false,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -2900,6 +2980,7 @@
     "notes":null,
     "date_parsed":742435200000,
     "parsed_dob":742435200000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -2941,6 +3022,7 @@
     "notes":null,
     "date_parsed":558921600000,
     "parsed_dob":558921600000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -2974,6 +3056,7 @@
     "notes":null,
     "date_parsed":93484800000,
     "parsed_dob":93484800000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -3015,6 +3098,7 @@
     "notes":null,
     "date_parsed":96595200000,
     "parsed_dob":96595200000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -3052,6 +3136,7 @@
     "notes":null,
     "date_parsed":371606400000,
     "parsed_dob":371606400000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -3085,6 +3170,7 @@
     "notes":null,
     "date_parsed":693273600000,
     "parsed_dob":693273600000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -3118,6 +3204,7 @@
     "notes":null,
     "date_parsed":154742400000,
     "parsed_dob":154742400000,
+    "is_ambiguous_date":false,
     "demographics.age":51,
     "email_valid":true,
     "high_dti_flag":false
@@ -3150,8 +3237,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":503539200000,
-    "demographics.age":40,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -3184,6 +3272,7 @@
     "notes":null,
     "date_parsed":270950400000,
     "parsed_dob":270950400000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -3221,6 +3310,7 @@
     "notes":null,
     "date_parsed":-242092800000,
     "parsed_dob":-242092800000,
+    "is_ambiguous_date":false,
     "demographics.age":63,
     "email_valid":true,
     "high_dti_flag":false
@@ -3258,6 +3348,7 @@
     "notes":null,
     "date_parsed":-314668800000,
     "parsed_dob":-314668800000,
+    "is_ambiguous_date":false,
     "demographics.age":66,
     "email_valid":true,
     "high_dti_flag":false
@@ -3291,6 +3382,7 @@
     "notes":null,
     "date_parsed":529718400000,
     "parsed_dob":529718400000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -3327,8 +3419,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":662860800000,
-    "demographics.age":35,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -3365,6 +3458,7 @@
     "notes":null,
     "date_parsed":395712000000,
     "parsed_dob":395712000000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -3401,7 +3495,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":374025600000,
+    "parsed_dob":366336000000,
+    "is_ambiguous_date":true,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -3435,6 +3530,7 @@
     "notes":null,
     "date_parsed":-225849600000,
     "parsed_dob":-225849600000,
+    "is_ambiguous_date":false,
     "demographics.age":63,
     "email_valid":true,
     "high_dti_flag":false
@@ -3476,6 +3572,7 @@
     "notes":null,
     "date_parsed":191635200000,
     "parsed_dob":191635200000,
+    "is_ambiguous_date":false,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -3513,6 +3610,7 @@
     "notes":null,
     "date_parsed":793497600000,
     "parsed_dob":793497600000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -3545,8 +3643,9 @@
     "financials.annual_salary":94000.0,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":429408000000,
-    "demographics.age":42,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -3583,6 +3682,7 @@
     "notes":null,
     "date_parsed":279504000000,
     "parsed_dob":279504000000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -3623,7 +3723,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-70416000000,
+    "parsed_dob":-72921600000,
+    "is_ambiguous_date":true,
     "demographics.age":58,
     "email_valid":true,
     "high_dti_flag":false
@@ -3661,6 +3762,7 @@
     "notes":null,
     "date_parsed":94348800000,
     "parsed_dob":94348800000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -3702,6 +3804,7 @@
     "notes":null,
     "date_parsed":472780800000,
     "parsed_dob":472780800000,
+    "is_ambiguous_date":false,
     "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
@@ -3739,6 +3842,7 @@
     "notes":null,
     "date_parsed":500428800000,
     "parsed_dob":500428800000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -3775,8 +3879,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":929491200000,
-    "demographics.age":26,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -3817,6 +3922,7 @@
     "notes":null,
     "date_parsed":692409600000,
     "parsed_dob":692409600000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -3850,6 +3956,7 @@
     "notes":null,
     "date_parsed":985305600000,
     "parsed_dob":985305600000,
+    "is_ambiguous_date":false,
     "demographics.age":24,
     "email_valid":true,
     "high_dti_flag":false
@@ -3883,6 +3990,7 @@
     "notes":null,
     "date_parsed":272419200000,
     "parsed_dob":272419200000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -3915,8 +4023,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":722304000000,
-    "demographics.age":33,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -3953,6 +4062,7 @@
     "notes":null,
     "date_parsed":650246400000,
     "parsed_dob":650246400000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -3986,6 +4096,7 @@
     "notes":null,
     "date_parsed":310003200000,
     "parsed_dob":310003200000,
+    "is_ambiguous_date":false,
     "demographics.age":46,
     "email_valid":true,
     "high_dti_flag":false
@@ -4022,8 +4133,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":414374400000,
-    "demographics.age":43,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4055,8 +4167,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":977961600000,
-    "demographics.age":25,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4089,6 +4202,7 @@
     "notes":null,
     "date_parsed":-147052800000,
     "parsed_dob":-147052800000,
+    "is_ambiguous_date":false,
     "demographics.age":60,
     "email_valid":true,
     "high_dti_flag":false
@@ -4125,8 +4239,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":94348800000,
-    "demographics.age":53,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4166,8 +4281,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":653011200000,
-    "demographics.age":35,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4199,8 +4315,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":790041600000,
-    "demographics.age":31,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4233,6 +4350,7 @@
     "notes":null,
     "date_parsed":-348105600000,
     "parsed_dob":-348105600000,
+    "is_ambiguous_date":false,
     "demographics.age":67,
     "email_valid":true,
     "high_dti_flag":false
@@ -4266,6 +4384,7 @@
     "notes":null,
     "date_parsed":575769600000,
     "parsed_dob":575769600000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -4298,7 +4417,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":654998400000,
+    "parsed_dob":639705600000,
+    "is_ambiguous_date":true,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -4332,6 +4452,7 @@
     "notes":null,
     "date_parsed":481248000000,
     "parsed_dob":481248000000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -4365,6 +4486,7 @@
     "notes":null,
     "date_parsed":-317433600000,
     "parsed_dob":-317433600000,
+    "is_ambiguous_date":false,
     "demographics.age":66,
     "email_valid":true,
     "high_dti_flag":false
@@ -4398,6 +4520,7 @@
     "notes":null,
     "date_parsed":842659200000,
     "parsed_dob":842659200000,
+    "is_ambiguous_date":false,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -4430,7 +4553,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":749865600000,
+    "parsed_dob":739670400000,
+    "is_ambiguous_date":true,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -4471,7 +4595,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":574041600000,
+    "parsed_dob":594518400000,
+    "is_ambiguous_date":true,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -4505,6 +4630,7 @@
     "notes":null,
     "date_parsed":750988800000,
     "parsed_dob":750988800000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -4538,6 +4664,7 @@
     "notes":null,
     "date_parsed":568857600000,
     "parsed_dob":568857600000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -4579,6 +4706,7 @@
     "notes":null,
     "date_parsed":780969600000,
     "parsed_dob":780969600000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -4612,6 +4740,7 @@
     "notes":null,
     "date_parsed":797817600000,
     "parsed_dob":797817600000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -4649,6 +4778,7 @@
     "notes":null,
     "date_parsed":255312000000,
     "parsed_dob":255312000000,
+    "is_ambiguous_date":false,
     "demographics.age":48,
     "email_valid":true,
     "high_dti_flag":false
@@ -4685,8 +4815,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":650332800000,
-    "demographics.age":35,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4719,6 +4850,7 @@
     "notes":null,
     "date_parsed":864172800000,
     "parsed_dob":864172800000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -4751,8 +4883,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-213408000000,
-    "demographics.age":62,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4788,8 +4921,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":586051200000,
-    "demographics.age":37,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4826,6 +4960,7 @@
     "notes":null,
     "date_parsed":635385600000,
     "parsed_dob":635385600000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -4858,8 +4993,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-300931200000,
-    "demographics.age":65,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -4896,6 +5032,7 @@
     "notes":null,
     "date_parsed":493084800000,
     "parsed_dob":493084800000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -4929,6 +5066,7 @@
     "notes":null,
     "date_parsed":418953600000,
     "parsed_dob":418953600000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":false,
     "high_dti_flag":false
@@ -4962,6 +5100,7 @@
     "notes":null,
     "date_parsed":75945600000,
     "parsed_dob":75945600000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -4995,6 +5134,7 @@
     "notes":null,
     "date_parsed":440467200000,
     "parsed_dob":440467200000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -5032,6 +5172,7 @@
     "notes":null,
     "date_parsed":167702400000,
     "parsed_dob":167702400000,
+    "is_ambiguous_date":false,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -5073,6 +5214,7 @@
     "notes":null,
     "date_parsed":946857600000,
     "parsed_dob":946857600000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -5113,8 +5255,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":373075200000,
-    "demographics.age":44,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -5147,6 +5290,7 @@
     "notes":null,
     "date_parsed":856051200000,
     "parsed_dob":856051200000,
+    "is_ambiguous_date":false,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -5180,6 +5324,7 @@
     "notes":null,
     "date_parsed":875491200000,
     "parsed_dob":875491200000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -5217,6 +5362,7 @@
     "notes":null,
     "date_parsed":530409600000,
     "parsed_dob":530409600000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -5250,6 +5396,7 @@
     "notes":null,
     "date_parsed":86227200000,
     "parsed_dob":86227200000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -5287,6 +5434,7 @@
     "notes":null,
     "date_parsed":904694400000,
     "parsed_dob":904694400000,
+    "is_ambiguous_date":false,
     "demographics.age":27,
     "email_valid":true,
     "high_dti_flag":false
@@ -5320,6 +5468,7 @@
     "notes":null,
     "date_parsed":-36115200000,
     "parsed_dob":-36115200000,
+    "is_ambiguous_date":false,
     "demographics.age":57,
     "email_valid":true,
     "high_dti_flag":false
@@ -5356,8 +5505,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":673660800000,
-    "demographics.age":34,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -5390,6 +5540,7 @@
     "notes":null,
     "date_parsed":609033600000,
     "parsed_dob":609033600000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -5423,6 +5574,7 @@
     "notes":null,
     "date_parsed":667612800000,
     "parsed_dob":667612800000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -5460,6 +5612,7 @@
     "notes":null,
     "date_parsed":-236304000000,
     "parsed_dob":-236304000000,
+    "is_ambiguous_date":false,
     "demographics.age":63,
     "email_valid":true,
     "high_dti_flag":false
@@ -5492,8 +5645,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":223344000000,
-    "demographics.age":49,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -5529,8 +5683,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":545270400000,
-    "demographics.age":38,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -5571,6 +5726,7 @@
     "notes":null,
     "date_parsed":166665600000,
     "parsed_dob":166665600000,
+    "is_ambiguous_date":false,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -5604,6 +5760,7 @@
     "notes":null,
     "date_parsed":938476800000,
     "parsed_dob":938476800000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -5645,6 +5802,7 @@
     "notes":null,
     "date_parsed":889660800000,
     "parsed_dob":889660800000,
+    "is_ambiguous_date":false,
     "demographics.age":27,
     "email_valid":true,
     "high_dti_flag":false
@@ -5681,8 +5839,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":476150400000,
-    "demographics.age":41,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -5715,6 +5874,7 @@
     "notes":null,
     "date_parsed":851990400000,
     "parsed_dob":851990400000,
+    "is_ambiguous_date":false,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -5748,6 +5908,7 @@
     "notes":null,
     "date_parsed":943747200000,
     "parsed_dob":943747200000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -5785,6 +5946,7 @@
     "notes":null,
     "date_parsed":460252800000,
     "parsed_dob":460252800000,
+    "is_ambiguous_date":false,
     "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
@@ -5818,6 +5980,7 @@
     "notes":null,
     "date_parsed":479520000000,
     "parsed_dob":479520000000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -5850,8 +6013,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":387936000000,
-    "demographics.age":43,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -5884,6 +6048,7 @@
     "notes":null,
     "date_parsed":755481600000,
     "parsed_dob":755481600000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -5916,8 +6081,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":825292800000,
-    "demographics.age":30,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -5950,6 +6116,7 @@
     "notes":null,
     "date_parsed":595728000000,
     "parsed_dob":595728000000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -5983,6 +6150,7 @@
     "notes":null,
     "date_parsed":662256000000,
     "parsed_dob":662256000000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -6019,8 +6187,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":892684800000,
-    "demographics.age":27,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -6053,6 +6222,7 @@
     "notes":null,
     "date_parsed":323740800000,
     "parsed_dob":323740800000,
+    "is_ambiguous_date":false,
     "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
@@ -6086,6 +6256,7 @@
     "notes":null,
     "date_parsed":765504000000,
     "parsed_dob":765504000000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -6118,8 +6289,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-39484800000,
-    "demographics.age":57,
+    "parsed_dob":-62380800000,
+    "is_ambiguous_date":true,
+    "demographics.age":58,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -6160,6 +6332,7 @@
     "notes":null,
     "date_parsed":626140800000,
     "parsed_dob":626140800000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -6197,6 +6370,7 @@
     "notes":null,
     "date_parsed":561945600000,
     "parsed_dob":561945600000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -6230,6 +6404,7 @@
     "notes":null,
     "date_parsed":889833600000,
     "parsed_dob":889833600000,
+    "is_ambiguous_date":false,
     "demographics.age":27,
     "email_valid":true,
     "high_dti_flag":false
@@ -6267,6 +6442,7 @@
     "notes":null,
     "date_parsed":-8294400000,
     "parsed_dob":-8294400000,
+    "is_ambiguous_date":false,
     "demographics.age":56,
     "email_valid":true,
     "high_dti_flag":false
@@ -6299,8 +6475,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":857001600000,
-    "demographics.age":29,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -6332,8 +6509,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":318902400000,
-    "demographics.age":46,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -6374,6 +6552,7 @@
     "notes":null,
     "date_parsed":83808000000,
     "parsed_dob":83808000000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":false,
     "high_dti_flag":false
@@ -6411,6 +6590,7 @@
     "notes":null,
     "date_parsed":346464000000,
     "parsed_dob":346464000000,
+    "is_ambiguous_date":false,
     "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
@@ -6447,8 +6627,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":772502400000,
-    "demographics.age":31,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -6485,6 +6666,7 @@
     "notes":null,
     "date_parsed":-108518400000,
     "parsed_dob":-108518400000,
+    "is_ambiguous_date":false,
     "demographics.age":59,
     "email_valid":true,
     "high_dti_flag":false
@@ -6518,6 +6700,7 @@
     "notes":null,
     "date_parsed":-208828800000,
     "parsed_dob":-208828800000,
+    "is_ambiguous_date":false,
     "demographics.age":62,
     "email_valid":true,
     "high_dti_flag":false
@@ -6555,6 +6738,7 @@
     "notes":null,
     "date_parsed":332899200000,
     "parsed_dob":332899200000,
+    "is_ambiguous_date":false,
     "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
@@ -6588,6 +6772,7 @@
     "notes":null,
     "date_parsed":530236800000,
     "parsed_dob":530236800000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":false,
     "high_dti_flag":false
@@ -6629,6 +6814,7 @@
     "notes":null,
     "date_parsed":1009065600000,
     "parsed_dob":1009065600000,
+    "is_ambiguous_date":false,
     "demographics.age":24,
     "email_valid":true,
     "high_dti_flag":false
@@ -6662,6 +6848,7 @@
     "notes":null,
     "date_parsed":284256000000,
     "parsed_dob":284256000000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -6695,6 +6882,7 @@
     "notes":null,
     "date_parsed":483235200000,
     "parsed_dob":483235200000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -6732,6 +6920,7 @@
     "notes":null,
     "date_parsed":624758400000,
     "parsed_dob":624758400000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -6765,6 +6954,7 @@
     "notes":null,
     "date_parsed":-68860800000,
     "parsed_dob":-68860800000,
+    "is_ambiguous_date":false,
     "demographics.age":58,
     "email_valid":true,
     "high_dti_flag":false
@@ -6798,6 +6988,7 @@
     "notes":null,
     "date_parsed":370483200000,
     "parsed_dob":370483200000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -6835,6 +7026,7 @@
     "notes":null,
     "date_parsed":935798400000,
     "parsed_dob":935798400000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -6868,6 +7060,7 @@
     "notes":null,
     "date_parsed":394156800000,
     "parsed_dob":394156800000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -6901,6 +7094,7 @@
     "notes":null,
     "date_parsed":361843200000,
     "parsed_dob":361843200000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -6938,6 +7132,7 @@
     "notes":null,
     "date_parsed":840585600000,
     "parsed_dob":840585600000,
+    "is_ambiguous_date":false,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -6975,6 +7170,7 @@
     "notes":null,
     "date_parsed":486518400000,
     "parsed_dob":486518400000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -7012,6 +7208,7 @@
     "notes":null,
     "date_parsed":713145600000,
     "parsed_dob":713145600000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -7045,6 +7242,7 @@
     "notes":null,
     "date_parsed":435974400000,
     "parsed_dob":435974400000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -7077,8 +7275,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":293500800000,
-    "demographics.age":46,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7111,6 +7310,7 @@
     "notes":null,
     "date_parsed":338169600000,
     "parsed_dob":338169600000,
+    "is_ambiguous_date":false,
     "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
@@ -7152,6 +7352,7 @@
     "notes":null,
     "date_parsed":-1900800000,
     "parsed_dob":-1900800000,
+    "is_ambiguous_date":false,
     "demographics.age":56,
     "email_valid":true,
     "high_dti_flag":false
@@ -7184,7 +7385,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":361065600000,
+    "parsed_dob":373852800000,
+    "is_ambiguous_date":true,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -7221,8 +7423,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":739929600000,
-    "demographics.age":32,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7255,6 +7458,7 @@
     "notes":null,
     "date_parsed":439862400000,
     "parsed_dob":439862400000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -7291,8 +7495,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":421977600000,
-    "demographics.age":42,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7325,6 +7530,7 @@
     "notes":null,
     "date_parsed":586483200000,
     "parsed_dob":586483200000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -7357,8 +7563,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":440985600000,
-    "demographics.age":42,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7399,6 +7606,7 @@
     "notes":null,
     "date_parsed":283651200000,
     "parsed_dob":283651200000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -7440,6 +7648,7 @@
     "notes":null,
     "date_parsed":890784000000,
     "parsed_dob":890784000000,
+    "is_ambiguous_date":false,
     "demographics.age":27,
     "email_valid":true,
     "high_dti_flag":false
@@ -7477,6 +7686,7 @@
     "notes":null,
     "date_parsed":597628800000,
     "parsed_dob":597628800000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -7510,6 +7720,7 @@
     "notes":null,
     "date_parsed":827798400000,
     "parsed_dob":827798400000,
+    "is_ambiguous_date":false,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -7551,6 +7762,7 @@
     "notes":null,
     "date_parsed":105408000000,
     "parsed_dob":105408000000,
+    "is_ambiguous_date":false,
     "demographics.age":52,
     "email_valid":true,
     "high_dti_flag":false
@@ -7583,8 +7795,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":370483200000,
-    "demographics.age":44,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7625,6 +7838,7 @@
     "notes":null,
     "date_parsed":947635200000,
     "parsed_dob":947635200000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -7662,6 +7876,7 @@
     "notes":null,
     "date_parsed":617414400000,
     "parsed_dob":617414400000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -7694,8 +7909,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":807235200000,
-    "demographics.age":30,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7727,8 +7943,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":315014400000,
-    "demographics.age":46,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7765,6 +7982,7 @@
     "notes":null,
     "date_parsed":1019606400000,
     "parsed_dob":1019606400000,
+    "is_ambiguous_date":false,
     "demographics.age":23,
     "email_valid":true,
     "high_dti_flag":false
@@ -7797,8 +8015,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":756950400000,
-    "demographics.age":32,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7831,6 +8050,7 @@
     "notes":null,
     "date_parsed":961804800000,
     "parsed_dob":961804800000,
+    "is_ambiguous_date":false,
     "demographics.age":25,
     "email_valid":true,
     "high_dti_flag":false
@@ -7864,6 +8084,7 @@
     "notes":null,
     "date_parsed":-184291200000,
     "parsed_dob":-184291200000,
+    "is_ambiguous_date":false,
     "demographics.age":62,
     "email_valid":true,
     "high_dti_flag":false
@@ -7905,6 +8126,7 @@
     "notes":null,
     "date_parsed":798076800000,
     "parsed_dob":798076800000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -7945,8 +8167,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":527299200000,
-    "demographics.age":39,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -7978,8 +8201,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":861926400000,
-    "demographics.age":28,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8011,8 +8235,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":983404800000,
-    "demographics.age":25,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8045,6 +8270,7 @@
     "notes":null,
     "date_parsed":862963200000,
     "parsed_dob":862963200000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -8077,8 +8303,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":743644800000,
-    "demographics.age":32,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8110,8 +8337,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":740188800000,
-    "demographics.age":32,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8144,6 +8372,7 @@
     "notes":null,
     "date_parsed":939340800000,
     "parsed_dob":939340800000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -8180,8 +8409,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":346204800000,
-    "demographics.age":45,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8218,6 +8448,7 @@
     "notes":null,
     "date_parsed":768182400000,
     "parsed_dob":768182400000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -8251,6 +8482,7 @@
     "notes":null,
     "date_parsed":564451200000,
     "parsed_dob":564451200000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -8283,7 +8515,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":831513600000,
+    "parsed_dob":839203200000,
+    "is_ambiguous_date":true,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -8325,6 +8558,7 @@
     "notes":null,
     "date_parsed":792460800000,
     "parsed_dob":792460800000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -8358,6 +8592,7 @@
     "notes":null,
     "date_parsed":365904000000,
     "parsed_dob":365904000000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -8394,8 +8629,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-122169600000,
-    "demographics.age":60,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8428,6 +8664,7 @@
     "notes":null,
     "date_parsed":225158400000,
     "parsed_dob":225158400000,
+    "is_ambiguous_date":false,
     "demographics.age":49,
     "email_valid":true,
     "high_dti_flag":false
@@ -8469,6 +8706,7 @@
     "notes":null,
     "date_parsed":675129600000,
     "parsed_dob":675129600000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -8510,6 +8748,7 @@
     "notes":null,
     "date_parsed":531360000000,
     "parsed_dob":531360000000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -8542,8 +8781,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":287020800000,
-    "demographics.age":47,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8579,8 +8819,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":312854400000,
-    "demographics.age":46,
+    "parsed_dob":284947200000,
+    "is_ambiguous_date":true,
+    "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8613,6 +8854,7 @@
     "notes":null,
     "date_parsed":222480000000,
     "parsed_dob":222480000000,
+    "is_ambiguous_date":false,
     "demographics.age":49,
     "email_valid":true,
     "high_dti_flag":false
@@ -8645,8 +8887,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-184896000000,
-    "demographics.age":62,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -8679,6 +8922,7 @@
     "notes":null,
     "date_parsed":643939200000,
     "parsed_dob":643939200000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -8715,7 +8959,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":436838400000,
+    "parsed_dob":421459200000,
+    "is_ambiguous_date":true,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -8749,6 +8994,7 @@
     "notes":null,
     "date_parsed":772934400000,
     "parsed_dob":772934400000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -8782,6 +9028,7 @@
     "notes":null,
     "date_parsed":583200000000,
     "parsed_dob":583200000000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -8819,6 +9066,7 @@
     "notes":null,
     "date_parsed":726710400000,
     "parsed_dob":726710400000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -8856,6 +9104,7 @@
     "notes":null,
     "date_parsed":713923200000,
     "parsed_dob":713923200000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -8897,6 +9146,7 @@
     "notes":null,
     "date_parsed":819331200000,
     "parsed_dob":819331200000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -8930,6 +9180,7 @@
     "notes":null,
     "date_parsed":757900800000,
     "parsed_dob":757900800000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -8963,6 +9214,7 @@
     "notes":null,
     "date_parsed":700704000000,
     "parsed_dob":700704000000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -8999,8 +9251,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":793929600000,
-    "demographics.age":31,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -9037,6 +9290,7 @@
     "notes":null,
     "date_parsed":-113270400000,
     "parsed_dob":-113270400000,
+    "is_ambiguous_date":false,
     "demographics.age":59,
     "email_valid":true,
     "high_dti_flag":false
@@ -9070,6 +9324,7 @@
     "notes":null,
     "date_parsed":717638400000,
     "parsed_dob":717638400000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -9103,6 +9358,7 @@
     "notes":null,
     "date_parsed":589507200000,
     "parsed_dob":589507200000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -9135,8 +9391,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":484963200000,
-    "demographics.age":40,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -9169,6 +9426,7 @@
     "notes":null,
     "date_parsed":363830400000,
     "parsed_dob":363830400000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -9206,6 +9464,7 @@
     "notes":null,
     "date_parsed":725673600000,
     "parsed_dob":725673600000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -9242,8 +9501,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":852249600000,
-    "demographics.age":29,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -9276,6 +9536,7 @@
     "notes":null,
     "date_parsed":-191548800000,
     "parsed_dob":-191548800000,
+    "is_ambiguous_date":false,
     "demographics.age":62,
     "email_valid":true,
     "high_dti_flag":false
@@ -9313,6 +9574,7 @@
     "notes":null,
     "date_parsed":1001980800000,
     "parsed_dob":1001980800000,
+    "is_ambiguous_date":false,
     "demographics.age":24,
     "email_valid":true,
     "high_dti_flag":false
@@ -9346,6 +9608,7 @@
     "notes":null,
     "date_parsed":977616000000,
     "parsed_dob":977616000000,
+    "is_ambiguous_date":false,
     "demographics.age":25,
     "email_valid":true,
     "high_dti_flag":false
@@ -9379,6 +9642,7 @@
     "notes":null,
     "date_parsed":-355968000000,
     "parsed_dob":-355968000000,
+    "is_ambiguous_date":false,
     "demographics.age":67,
     "email_valid":true,
     "high_dti_flag":false
@@ -9412,6 +9676,7 @@
     "notes":null,
     "date_parsed":587952000000,
     "parsed_dob":587952000000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -9449,6 +9714,7 @@
     "notes":null,
     "date_parsed":-347155200000,
     "parsed_dob":-347155200000,
+    "is_ambiguous_date":false,
     "demographics.age":67,
     "email_valid":true,
     "high_dti_flag":false
@@ -9482,6 +9748,7 @@
     "notes":null,
     "date_parsed":311212800000,
     "parsed_dob":311212800000,
+    "is_ambiguous_date":false,
     "demographics.age":46,
     "email_valid":true,
     "high_dti_flag":false
@@ -9515,6 +9782,7 @@
     "notes":null,
     "date_parsed":258076800000,
     "parsed_dob":258076800000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -9551,7 +9819,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":645062400000,
+    "parsed_dob":657849600000,
+    "is_ambiguous_date":true,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -9585,6 +9854,7 @@
     "notes":null,
     "date_parsed":19180800000,
     "parsed_dob":19180800000,
+    "is_ambiguous_date":false,
     "demographics.age":55,
     "email_valid":true,
     "high_dti_flag":false
@@ -9626,6 +9896,7 @@
     "notes":null,
     "date_parsed":null,
     "parsed_dob":870998400000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -9658,8 +9929,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":448848000000,
-    "demographics.age":41,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -9696,6 +9968,7 @@
     "notes":null,
     "date_parsed":747187200000,
     "parsed_dob":747187200000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":false,
     "high_dti_flag":false
@@ -9732,8 +10005,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":410054400000,
-    "demographics.age":43,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -9774,6 +10048,7 @@
     "notes":null,
     "date_parsed":786844800000,
     "parsed_dob":786844800000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -9811,6 +10086,7 @@
     "notes":null,
     "date_parsed":574646400000,
     "parsed_dob":574646400000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -9843,7 +10119,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":334713600000,
+    "parsed_dob":339811200000,
+    "is_ambiguous_date":true,
     "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
@@ -9877,6 +10154,7 @@
     "notes":null,
     "date_parsed":938044800000,
     "parsed_dob":938044800000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -9910,6 +10188,7 @@
     "notes":null,
     "date_parsed":497145600000,
     "parsed_dob":497145600000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -9943,6 +10222,7 @@
     "notes":null,
     "date_parsed":420940800000,
     "parsed_dob":420940800000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -9976,6 +10256,7 @@
     "notes":null,
     "date_parsed":398995200000,
     "parsed_dob":398995200000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -10008,8 +10289,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":684892800000,
-    "demographics.age":34,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -10050,6 +10332,7 @@
     "notes":null,
     "date_parsed":353721600000,
     "parsed_dob":353721600000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -10082,8 +10365,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":285984000000,
-    "demographics.age":47,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -10116,6 +10400,7 @@
     "notes":null,
     "date_parsed":-266457600000,
     "parsed_dob":-266457600000,
+    "is_ambiguous_date":false,
     "demographics.age":64,
     "email_valid":true,
     "high_dti_flag":false
@@ -10148,8 +10433,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-240019200000,
-    "demographics.age":63,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -10182,6 +10468,7 @@
     "notes":null,
     "date_parsed":-188611200000,
     "parsed_dob":-188611200000,
+    "is_ambiguous_date":false,
     "demographics.age":62,
     "email_valid":true,
     "high_dti_flag":false
@@ -10215,6 +10502,7 @@
     "notes":null,
     "date_parsed":378086400000,
     "parsed_dob":378086400000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -10248,6 +10536,7 @@
     "notes":null,
     "date_parsed":432604800000,
     "parsed_dob":432604800000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -10289,6 +10578,7 @@
     "notes":null,
     "date_parsed":488764800000,
     "parsed_dob":488764800000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -10322,6 +10612,7 @@
     "notes":null,
     "date_parsed":555638400000,
     "parsed_dob":555638400000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -10355,6 +10646,7 @@
     "notes":null,
     "date_parsed":231465600000,
     "parsed_dob":231465600000,
+    "is_ambiguous_date":false,
     "demographics.age":48,
     "email_valid":true,
     "high_dti_flag":false
@@ -10396,6 +10688,7 @@
     "notes":null,
     "date_parsed":-295574400000,
     "parsed_dob":-295574400000,
+    "is_ambiguous_date":false,
     "demographics.age":65,
     "email_valid":true,
     "high_dti_flag":false
@@ -10433,6 +10726,7 @@
     "notes":null,
     "date_parsed":43027200000,
     "parsed_dob":43027200000,
+    "is_ambiguous_date":false,
     "demographics.age":54,
     "email_valid":false,
     "high_dti_flag":false
@@ -10466,6 +10760,7 @@
     "notes":null,
     "date_parsed":654307200000,
     "parsed_dob":654307200000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":false,
     "high_dti_flag":false
@@ -10499,6 +10794,7 @@
     "notes":null,
     "date_parsed":134438400000,
     "parsed_dob":134438400000,
+    "is_ambiguous_date":false,
     "demographics.age":51,
     "email_valid":true,
     "high_dti_flag":false
@@ -10532,6 +10828,7 @@
     "notes":null,
     "date_parsed":788572800000,
     "parsed_dob":788572800000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -10564,8 +10861,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-218505600000,
-    "demographics.age":63,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -10598,6 +10896,7 @@
     "notes":null,
     "date_parsed":439171200000,
     "parsed_dob":439171200000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -10630,8 +10929,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":826675200000,
-    "demographics.age":29,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -10663,8 +10963,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":670550400000,
-    "demographics.age":34,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -10700,7 +11001,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":715564800000,
+    "parsed_dob":702777600000,
+    "is_ambiguous_date":true,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -10734,6 +11036,7 @@
     "notes":null,
     "date_parsed":988588800000,
     "parsed_dob":988588800000,
+    "is_ambiguous_date":false,
     "demographics.age":24,
     "email_valid":true,
     "high_dti_flag":false
@@ -10771,6 +11074,7 @@
     "notes":null,
     "date_parsed":953769600000,
     "parsed_dob":953769600000,
+    "is_ambiguous_date":false,
     "demographics.age":25,
     "email_valid":true,
     "high_dti_flag":false
@@ -10812,6 +11116,7 @@
     "notes":null,
     "date_parsed":185932800000,
     "parsed_dob":185932800000,
+    "is_ambiguous_date":false,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -10849,6 +11154,7 @@
     "notes":null,
     "date_parsed":535593600000,
     "parsed_dob":535593600000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -10885,8 +11191,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-15897600000,
-    "demographics.age":56,
+    "parsed_dob":-31017600000,
+    "is_ambiguous_date":true,
+    "demographics.age":57,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -10919,6 +11226,7 @@
     "notes":null,
     "date_parsed":513907200000,
     "parsed_dob":513907200000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -10951,8 +11259,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":574646400000,
-    "demographics.age":37,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -10984,8 +11293,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":829353600000,
-    "demographics.age":29,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -11022,6 +11332,7 @@
     "notes":null,
     "date_parsed":875491200000,
     "parsed_dob":875491200000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -11063,6 +11374,7 @@
     "notes":null,
     "date_parsed":514944000000,
     "parsed_dob":514944000000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -11096,6 +11408,7 @@
     "notes":null,
     "date_parsed":-152150400000,
     "parsed_dob":-152150400000,
+    "is_ambiguous_date":false,
     "demographics.age":60,
     "email_valid":true,
     "high_dti_flag":true
@@ -11129,6 +11442,7 @@
     "notes":null,
     "date_parsed":381369600000,
     "parsed_dob":381369600000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -11165,8 +11479,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":745286400000,
-    "demographics.age":32,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -11203,6 +11518,7 @@
     "notes":null,
     "date_parsed":324172800000,
     "parsed_dob":324172800000,
+    "is_ambiguous_date":false,
     "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
@@ -11240,6 +11556,7 @@
     "notes":null,
     "date_parsed":602812800000,
     "parsed_dob":602812800000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -11277,6 +11594,7 @@
     "notes":null,
     "date_parsed":314841600000,
     "parsed_dob":314841600000,
+    "is_ambiguous_date":false,
     "demographics.age":46,
     "email_valid":true,
     "high_dti_flag":false
@@ -11314,6 +11632,7 @@
     "notes":null,
     "date_parsed":546393600000,
     "parsed_dob":546393600000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -11350,8 +11669,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":593654400000,
-    "demographics.age":37,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -11383,8 +11703,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":872985600000,
-    "demographics.age":28,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -11416,7 +11737,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":452822400000,
+    "parsed_dob":460512000000,
+    "is_ambiguous_date":true,
     "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
@@ -11454,6 +11776,7 @@
     "notes":null,
     "date_parsed":350870400000,
     "parsed_dob":350870400000,
+    "is_ambiguous_date":false,
     "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
@@ -11494,8 +11817,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":961459200000,
-    "demographics.age":25,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -11532,6 +11856,7 @@
     "notes":null,
     "date_parsed":553046400000,
     "parsed_dob":553046400000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -11568,8 +11893,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":472953600000,
-    "demographics.age":41,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -11601,8 +11927,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":906249600000,
-    "demographics.age":27,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -11635,6 +11962,7 @@
     "notes":null,
     "date_parsed":800582400000,
     "parsed_dob":800582400000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -11672,6 +12000,7 @@
     "notes":null,
     "date_parsed":800409600000,
     "parsed_dob":800409600000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -11709,6 +12038,7 @@
     "notes":null,
     "date_parsed":-242438400000,
     "parsed_dob":-242438400000,
+    "is_ambiguous_date":false,
     "demographics.age":63,
     "email_valid":true,
     "high_dti_flag":false
@@ -11750,6 +12080,7 @@
     "notes":null,
     "date_parsed":361324800000,
     "parsed_dob":361324800000,
+    "is_ambiguous_date":false,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
@@ -11783,6 +12114,7 @@
     "notes":null,
     "date_parsed":715305600000,
     "parsed_dob":715305600000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -11820,6 +12152,7 @@
     "notes":null,
     "date_parsed":-315532800000,
     "parsed_dob":-315532800000,
+    "is_ambiguous_date":false,
     "demographics.age":66,
     "email_valid":true,
     "high_dti_flag":false
@@ -11853,6 +12186,7 @@
     "notes":null,
     "date_parsed":631152000000,
     "parsed_dob":631152000000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -11894,6 +12228,7 @@
     "notes":null,
     "date_parsed":-202608000000,
     "parsed_dob":-202608000000,
+    "is_ambiguous_date":false,
     "demographics.age":62,
     "email_valid":true,
     "high_dti_flag":false
@@ -11927,6 +12262,7 @@
     "notes":null,
     "date_parsed":933465600000,
     "parsed_dob":933465600000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -11968,6 +12304,7 @@
     "notes":null,
     "date_parsed":452995200000,
     "parsed_dob":452995200000,
+    "is_ambiguous_date":false,
     "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
@@ -12009,6 +12346,7 @@
     "notes":null,
     "date_parsed":191289600000,
     "parsed_dob":191289600000,
+    "is_ambiguous_date":false,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -12046,6 +12384,7 @@
     "notes":null,
     "date_parsed":935625600000,
     "parsed_dob":935625600000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -12079,6 +12418,7 @@
     "notes":null,
     "date_parsed":605664000000,
     "parsed_dob":605664000000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -12116,6 +12456,7 @@
     "notes":null,
     "date_parsed":693446400000,
     "parsed_dob":693446400000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -12148,8 +12489,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":29894400000,
-    "demographics.age":55,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -12181,8 +12523,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":533606400000,
-    "demographics.age":39,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -12215,6 +12558,7 @@
     "notes":null,
     "date_parsed":674092800000,
     "parsed_dob":674092800000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -12247,8 +12591,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":1003881600000,
-    "demographics.age":24,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -12289,6 +12634,7 @@
     "notes":null,
     "date_parsed":162864000000,
     "parsed_dob":162864000000,
+    "is_ambiguous_date":false,
     "demographics.age":51,
     "email_valid":true,
     "high_dti_flag":false
@@ -12321,8 +12667,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":146448000000,
-    "demographics.age":51,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -12363,6 +12710,7 @@
     "notes":null,
     "date_parsed":940723200000,
     "parsed_dob":940723200000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -12395,8 +12743,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":939427200000,
-    "demographics.age":26,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -12429,6 +12778,7 @@
     "notes":null,
     "date_parsed":558748800000,
     "parsed_dob":558748800000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -12466,6 +12816,7 @@
     "notes":null,
     "date_parsed":-518400000,
     "parsed_dob":-518400000,
+    "is_ambiguous_date":false,
     "demographics.age":56,
     "email_valid":true,
     "high_dti_flag":false
@@ -12498,8 +12849,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":838339200000,
-    "demographics.age":29,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -12532,6 +12884,7 @@
     "notes":null,
     "date_parsed":406339200000,
     "parsed_dob":406339200000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -12564,8 +12917,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":239155200000,
-    "demographics.age":48,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -12598,6 +12952,7 @@
     "notes":null,
     "date_parsed":986515200000,
     "parsed_dob":986515200000,
+    "is_ambiguous_date":false,
     "demographics.age":24,
     "email_valid":true,
     "high_dti_flag":false
@@ -12639,6 +12994,7 @@
     "notes":null,
     "date_parsed":392256000000,
     "parsed_dob":392256000000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -12676,6 +13032,7 @@
     "notes":null,
     "date_parsed":758332800000,
     "parsed_dob":758332800000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -12713,6 +13070,7 @@
     "notes":null,
     "date_parsed":773539200000,
     "parsed_dob":773539200000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -12750,6 +13108,7 @@
     "notes":null,
     "date_parsed":270432000000,
     "parsed_dob":270432000000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -12782,8 +13141,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":1013299200000,
-    "demographics.age":24,
+    "parsed_dob":1033516800000,
+    "is_ambiguous_date":true,
+    "demographics.age":23,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -12815,7 +13175,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":397958400000,
+    "parsed_dob":408153600000,
+    "is_ambiguous_date":true,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -12849,6 +13210,7 @@
     "notes":null,
     "date_parsed":672364800000,
     "parsed_dob":672364800000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -12886,6 +13248,7 @@
     "notes":null,
     "date_parsed":-156384000000,
     "parsed_dob":-156384000000,
+    "is_ambiguous_date":false,
     "demographics.age":61,
     "email_valid":true,
     "high_dti_flag":false
@@ -12926,7 +13289,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":187228800000,
+    "parsed_dob":177033600000,
+    "is_ambiguous_date":true,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -12964,6 +13328,7 @@
     "notes":null,
     "date_parsed":9936000000,
     "parsed_dob":9936000000,
+    "is_ambiguous_date":false,
     "demographics.age":55,
     "email_valid":false,
     "high_dti_flag":false
@@ -13001,6 +13366,7 @@
     "notes":null,
     "date_parsed":109987200000,
     "parsed_dob":109987200000,
+    "is_ambiguous_date":false,
     "demographics.age":52,
     "email_valid":true,
     "high_dti_flag":false
@@ -13037,8 +13403,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-312336000000,
-    "demographics.age":66,
+    "parsed_dob":-297129600000,
+    "is_ambiguous_date":true,
+    "demographics.age":65,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -13075,6 +13442,7 @@
     "notes":null,
     "date_parsed":338169600000,
     "parsed_dob":338169600000,
+    "is_ambiguous_date":false,
     "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
@@ -13107,8 +13475,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":827020800000,
-    "demographics.age":29,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -13145,6 +13514,7 @@
     "notes":null,
     "date_parsed":861321600000,
     "parsed_dob":861321600000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -13186,6 +13556,7 @@
     "notes":null,
     "date_parsed":755740800000,
     "parsed_dob":755740800000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -13219,6 +13590,7 @@
     "notes":null,
     "date_parsed":996192000000,
     "parsed_dob":996192000000,
+    "is_ambiguous_date":false,
     "demographics.age":24,
     "email_valid":true,
     "high_dti_flag":false
@@ -13256,6 +13628,7 @@
     "notes":null,
     "date_parsed":74736000000,
     "parsed_dob":74736000000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -13288,8 +13661,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":430704000000,
-    "demographics.age":42,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -13322,6 +13696,7 @@
     "notes":null,
     "date_parsed":-102211200000,
     "parsed_dob":-102211200000,
+    "is_ambiguous_date":false,
     "demographics.age":59,
     "email_valid":true,
     "high_dti_flag":false
@@ -13359,6 +13734,7 @@
     "notes":null,
     "date_parsed":866764800000,
     "parsed_dob":866764800000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -13392,6 +13768,7 @@
     "notes":null,
     "date_parsed":-158630400000,
     "parsed_dob":-158630400000,
+    "is_ambiguous_date":false,
     "demographics.age":61,
     "email_valid":true,
     "high_dti_flag":false
@@ -13433,6 +13810,7 @@
     "notes":null,
     "date_parsed":620956800000,
     "parsed_dob":620956800000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -13466,6 +13844,7 @@
     "notes":null,
     "date_parsed":517536000000,
     "parsed_dob":517536000000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -13502,8 +13881,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":307670400000,
-    "demographics.age":46,
+    "parsed_dob":287452800000,
+    "is_ambiguous_date":true,
+    "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -13539,8 +13919,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":8985600000,
-    "demographics.age":55,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -13573,6 +13954,7 @@
     "notes":null,
     "date_parsed":841104000000,
     "parsed_dob":841104000000,
+    "is_ambiguous_date":false,
     "demographics.age":29,
     "email_valid":true,
     "high_dti_flag":false
@@ -13606,6 +13988,7 @@
     "notes":null,
     "date_parsed":-55036800000,
     "parsed_dob":-55036800000,
+    "is_ambiguous_date":false,
     "demographics.age":57,
     "email_valid":true,
     "high_dti_flag":false
@@ -13638,8 +14021,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":373420800000,
-    "demographics.age":44,
+    "parsed_dob":348019200000,
+    "is_ambiguous_date":true,
+    "demographics.age":45,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -13676,6 +14060,7 @@
     "notes":null,
     "date_parsed":87523200000,
     "parsed_dob":87523200000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -13709,6 +14094,7 @@
     "notes":null,
     "date_parsed":627523200000,
     "parsed_dob":627523200000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -13746,6 +14132,7 @@
     "notes":null,
     "date_parsed":449625600000,
     "parsed_dob":449625600000,
+    "is_ambiguous_date":false,
     "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
@@ -13779,6 +14166,7 @@
     "notes":null,
     "date_parsed":516240000000,
     "parsed_dob":516240000000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -13820,6 +14208,7 @@
     "notes":null,
     "date_parsed":279590400000,
     "parsed_dob":279590400000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -13853,6 +14242,7 @@
     "notes":null,
     "date_parsed":-202521600000,
     "parsed_dob":-202521600000,
+    "is_ambiguous_date":false,
     "demographics.age":62,
     "email_valid":true,
     "high_dti_flag":false
@@ -13894,6 +14284,7 @@
     "notes":null,
     "date_parsed":659923200000,
     "parsed_dob":659923200000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -13927,6 +14318,7 @@
     "notes":null,
     "date_parsed":646444800000,
     "parsed_dob":646444800000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -13964,6 +14356,7 @@
     "notes":null,
     "date_parsed":544406400000,
     "parsed_dob":544406400000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -13997,6 +14390,7 @@
     "notes":null,
     "date_parsed":485222400000,
     "parsed_dob":485222400000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -14029,7 +14423,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":594604800000,
+    "parsed_dob":576720000000,
+    "is_ambiguous_date":true,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -14063,6 +14458,7 @@
     "notes":null,
     "date_parsed":807235200000,
     "parsed_dob":807235200000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -14100,6 +14496,7 @@
     "notes":null,
     "date_parsed":945129600000,
     "parsed_dob":945129600000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -14137,6 +14534,7 @@
     "notes":null,
     "date_parsed":572313600000,
     "parsed_dob":572313600000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -14173,7 +14571,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":799459200000,
+    "parsed_dob":794361600000,
+    "is_ambiguous_date":true,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -14207,6 +14606,7 @@
     "notes":null,
     "date_parsed":956275200000,
     "parsed_dob":956275200000,
+    "is_ambiguous_date":false,
     "demographics.age":25,
     "email_valid":true,
     "high_dti_flag":false
@@ -14240,6 +14640,7 @@
     "notes":null,
     "date_parsed":93052800000,
     "parsed_dob":93052800000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -14273,6 +14674,7 @@
     "notes":null,
     "date_parsed":292204800000,
     "parsed_dob":292204800000,
+    "is_ambiguous_date":false,
     "demographics.age":46,
     "email_valid":true,
     "high_dti_flag":false
@@ -14306,6 +14708,7 @@
     "notes":null,
     "date_parsed":-209260800000,
     "parsed_dob":-209260800000,
+    "is_ambiguous_date":false,
     "demographics.age":62,
     "email_valid":true,
     "high_dti_flag":false
@@ -14339,6 +14742,7 @@
     "notes":null,
     "date_parsed":-5270400000,
     "parsed_dob":-5270400000,
+    "is_ambiguous_date":false,
     "demographics.age":56,
     "email_valid":true,
     "high_dti_flag":false
@@ -14380,6 +14784,7 @@
     "notes":null,
     "date_parsed":825120000000,
     "parsed_dob":825120000000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -14416,8 +14821,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":574473600000,
-    "demographics.age":37,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -14449,7 +14855,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":5961600000,
+    "parsed_dob":26438400000,
+    "is_ambiguous_date":true,
     "demographics.age":55,
     "email_valid":true,
     "high_dti_flag":false
@@ -14483,6 +14890,7 @@
     "notes":null,
     "date_parsed":751852800000,
     "parsed_dob":751852800000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -14524,6 +14932,7 @@
     "notes":null,
     "date_parsed":272073600000,
     "parsed_dob":272073600000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -14557,6 +14966,7 @@
     "notes":null,
     "date_parsed":-275097600000,
     "parsed_dob":-275097600000,
+    "is_ambiguous_date":false,
     "demographics.age":64,
     "email_valid":true,
     "high_dti_flag":false
@@ -14590,6 +15000,7 @@
     "notes":null,
     "date_parsed":496540800000,
     "parsed_dob":496540800000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -14622,8 +15033,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":39225600000,
-    "demographics.age":54,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -14660,6 +15072,7 @@
     "notes":null,
     "date_parsed":537753600000,
     "parsed_dob":537753600000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -14693,6 +15106,7 @@
     "notes":null,
     "date_parsed":530928000000,
     "parsed_dob":530928000000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -14734,6 +15148,7 @@
     "notes":null,
     "date_parsed":232329600000,
     "parsed_dob":232329600000,
+    "is_ambiguous_date":false,
     "demographics.age":48,
     "email_valid":true,
     "high_dti_flag":false
@@ -14766,8 +15181,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":6393600000,
-    "demographics.age":55,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -14804,6 +15220,7 @@
     "notes":null,
     "date_parsed":857865600000,
     "parsed_dob":857865600000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -14836,8 +15253,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":1011312000000,
-    "demographics.age":24,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -14869,8 +15287,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":664156800000,
-    "demographics.age":35,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -14902,8 +15321,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-287452800000,
-    "demographics.age":65,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -14936,6 +15356,7 @@
     "notes":null,
     "date_parsed":696988800000,
     "parsed_dob":696988800000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -14977,6 +15398,7 @@
     "notes":null,
     "date_parsed":939081600000,
     "parsed_dob":939081600000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -15014,6 +15436,7 @@
     "notes":null,
     "date_parsed":586310400000,
     "parsed_dob":586310400000,
+    "is_ambiguous_date":false,
     "demographics.age":37,
     "email_valid":true,
     "high_dti_flag":false
@@ -15047,6 +15470,7 @@
     "notes":null,
     "date_parsed":143856000000,
     "parsed_dob":143856000000,
+    "is_ambiguous_date":false,
     "demographics.age":51,
     "email_valid":true,
     "high_dti_flag":false
@@ -15087,8 +15511,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-161568000000,
-    "demographics.age":61,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15124,8 +15549,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":922579200000,
-    "demographics.age":26,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15162,6 +15588,7 @@
     "notes":null,
     "date_parsed":794880000000,
     "parsed_dob":794880000000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -15194,8 +15621,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":764208000000,
-    "demographics.age":31,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15232,6 +15660,7 @@
     "notes":null,
     "date_parsed":268963200000,
     "parsed_dob":268963200000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -15265,6 +15694,7 @@
     "notes":null,
     "date_parsed":619833600000,
     "parsed_dob":619833600000,
+    "is_ambiguous_date":false,
     "demographics.age":36,
     "email_valid":true,
     "high_dti_flag":false
@@ -15297,7 +15727,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":68688000000,
+    "parsed_dob":76377600000,
+    "is_ambiguous_date":true,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -15335,6 +15766,7 @@
     "notes":null,
     "date_parsed":668908800000,
     "parsed_dob":668908800000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -15367,8 +15799,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":170726400000,
-    "demographics.age":50,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15401,6 +15834,7 @@
     "notes":null,
     "date_parsed":398563200000,
     "parsed_dob":398563200000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -15438,6 +15872,7 @@
     "notes":null,
     "date_parsed":507254400000,
     "parsed_dob":507254400000,
+    "is_ambiguous_date":false,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -15474,7 +15909,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-291081600000,
+    "parsed_dob":-288489600000,
+    "is_ambiguous_date":true,
     "demographics.age":65,
     "email_valid":true,
     "high_dti_flag":false
@@ -15512,6 +15948,7 @@
     "notes":null,
     "date_parsed":965001600000,
     "parsed_dob":965001600000,
+    "is_ambiguous_date":false,
     "demographics.age":25,
     "email_valid":true,
     "high_dti_flag":false
@@ -15548,8 +15985,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":604195200000,
-    "demographics.age":37,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15582,6 +16020,7 @@
     "notes":null,
     "date_parsed":-130982400000,
     "parsed_dob":-130982400000,
+    "is_ambiguous_date":false,
     "demographics.age":60,
     "email_valid":true,
     "high_dti_flag":false
@@ -15615,6 +16054,7 @@
     "notes":null,
     "date_parsed":294451200000,
     "parsed_dob":294451200000,
+    "is_ambiguous_date":false,
     "demographics.age":46,
     "email_valid":true,
     "high_dti_flag":false
@@ -15652,6 +16092,7 @@
     "notes":null,
     "date_parsed":936489600000,
     "parsed_dob":936489600000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -15692,8 +16133,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":-6825600000,
-    "demographics.age":56,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15729,8 +16171,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":482803200000,
-    "demographics.age":40,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15770,7 +16213,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":186883200000,
+    "parsed_dob":166492800000,
+    "is_ambiguous_date":true,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -15811,8 +16255,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":453945600000,
-    "demographics.age":41,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15844,7 +16289,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":494985600000,
+    "parsed_dob":492393600000,
+    "is_ambiguous_date":true,
     "demographics.age":40,
     "email_valid":true,
     "high_dti_flag":false
@@ -15877,8 +16323,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":753494400000,
-    "demographics.age":32,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15911,6 +16358,7 @@
     "notes":null,
     "date_parsed":726019200000,
     "parsed_dob":726019200000,
+    "is_ambiguous_date":false,
     "demographics.age":33,
     "email_valid":true,
     "high_dti_flag":false
@@ -15947,8 +16395,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":941932800000,
-    "demographics.age":26,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -15981,6 +16430,7 @@
     "notes":null,
     "date_parsed":424828800000,
     "parsed_dob":424828800000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -16018,6 +16468,7 @@
     "notes":null,
     "date_parsed":859766400000,
     "parsed_dob":859766400000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -16055,6 +16506,7 @@
     "notes":null,
     "date_parsed":216345600000,
     "parsed_dob":216345600000,
+    "is_ambiguous_date":false,
     "demographics.age":49,
     "email_valid":true,
     "high_dti_flag":false
@@ -16088,6 +16540,7 @@
     "notes":null,
     "date_parsed":1002153600000,
     "parsed_dob":1002153600000,
+    "is_ambiguous_date":false,
     "demographics.age":24,
     "email_valid":true,
     "high_dti_flag":false
@@ -16129,6 +16582,7 @@
     "notes":null,
     "date_parsed":900979200000,
     "parsed_dob":900979200000,
+    "is_ambiguous_date":false,
     "demographics.age":27,
     "email_valid":true,
     "high_dti_flag":false
@@ -16161,8 +16615,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":251769600000,
-    "demographics.age":48,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -16203,6 +16658,7 @@
     "notes":null,
     "date_parsed":526521600000,
     "parsed_dob":526521600000,
+    "is_ambiguous_date":false,
     "demographics.age":39,
     "email_valid":true,
     "high_dti_flag":false
@@ -16240,6 +16696,7 @@
     "notes":null,
     "date_parsed":636681600000,
     "parsed_dob":636681600000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -16273,6 +16730,7 @@
     "notes":null,
     "date_parsed":425606400000,
     "parsed_dob":425606400000,
+    "is_ambiguous_date":false,
     "demographics.age":42,
     "email_valid":true,
     "high_dti_flag":false
@@ -16309,7 +16767,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":736646400000,
+    "parsed_dob":739238400000,
+    "is_ambiguous_date":true,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -16347,6 +16806,7 @@
     "notes":null,
     "date_parsed":748396800000,
     "parsed_dob":748396800000,
+    "is_ambiguous_date":false,
     "demographics.age":32,
     "email_valid":true,
     "high_dti_flag":false
@@ -16383,8 +16843,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":186192000000,
-    "demographics.age":50,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -16417,6 +16878,7 @@
     "notes":null,
     "date_parsed":552960000000,
     "parsed_dob":552960000000,
+    "is_ambiguous_date":false,
     "demographics.age":38,
     "email_valid":true,
     "high_dti_flag":false
@@ -16454,6 +16916,7 @@
     "notes":null,
     "date_parsed":-350784000000,
     "parsed_dob":-350784000000,
+    "is_ambiguous_date":false,
     "demographics.age":67,
     "email_valid":true,
     "high_dti_flag":false
@@ -16491,6 +16954,7 @@
     "notes":null,
     "date_parsed":860025600000,
     "parsed_dob":860025600000,
+    "is_ambiguous_date":false,
     "demographics.age":28,
     "email_valid":true,
     "high_dti_flag":false
@@ -16528,6 +16992,7 @@
     "notes":null,
     "date_parsed":820627200000,
     "parsed_dob":820627200000,
+    "is_ambiguous_date":false,
     "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
@@ -16569,6 +17034,7 @@
     "notes":null,
     "date_parsed":290131200000,
     "parsed_dob":290131200000,
+    "is_ambiguous_date":false,
     "demographics.age":46,
     "email_valid":true,
     "high_dti_flag":false
@@ -16602,6 +17068,7 @@
     "notes":null,
     "date_parsed":640396800000,
     "parsed_dob":640396800000,
+    "is_ambiguous_date":false,
     "demographics.age":35,
     "email_valid":true,
     "high_dti_flag":false
@@ -16638,8 +17105,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":572832000000,
-    "demographics.age":38,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -16671,8 +17139,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":698889600000,
-    "demographics.age":34,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -16705,6 +17174,7 @@
     "notes":null,
     "date_parsed":683164800000,
     "parsed_dob":683164800000,
+    "is_ambiguous_date":false,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -16746,6 +17216,7 @@
     "notes":null,
     "date_parsed":-159494400000,
     "parsed_dob":-159494400000,
+    "is_ambiguous_date":false,
     "demographics.age":61,
     "email_valid":true,
     "high_dti_flag":false
@@ -16783,6 +17254,7 @@
     "notes":null,
     "date_parsed":-130982400000,
     "parsed_dob":-130982400000,
+    "is_ambiguous_date":false,
     "demographics.age":60,
     "email_valid":true,
     "high_dti_flag":false
@@ -16815,8 +17287,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":491270400000,
-    "demographics.age":40,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -16849,6 +17322,7 @@
     "notes":null,
     "date_parsed":387158400000,
     "parsed_dob":387158400000,
+    "is_ambiguous_date":false,
     "demographics.age":43,
     "email_valid":true,
     "high_dti_flag":false
@@ -16890,6 +17364,7 @@
     "notes":null,
     "date_parsed":178761600000,
     "parsed_dob":178761600000,
+    "is_ambiguous_date":false,
     "demographics.age":50,
     "email_valid":true,
     "high_dti_flag":false
@@ -16931,6 +17406,7 @@
     "notes":null,
     "date_parsed":-325728000000,
     "parsed_dob":-325728000000,
+    "is_ambiguous_date":false,
     "demographics.age":66,
     "email_valid":true,
     "high_dti_flag":false
@@ -16963,8 +17439,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":633225600000,
-    "demographics.age":36,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -17000,8 +17477,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":955584000000,
-    "demographics.age":25,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -17041,7 +17519,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":471312000000,
+    "parsed_dob":461116800000,
+    "is_ambiguous_date":true,
     "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
@@ -17079,6 +17558,7 @@
     "notes":null,
     "date_parsed":793411200000,
     "parsed_dob":793411200000,
+    "is_ambiguous_date":false,
     "demographics.age":31,
     "email_valid":true,
     "high_dti_flag":false
@@ -17116,6 +17596,7 @@
     "notes":null,
     "date_parsed":229392000000,
     "parsed_dob":229392000000,
+    "is_ambiguous_date":false,
     "demographics.age":48,
     "email_valid":true,
     "high_dti_flag":false
@@ -17149,6 +17630,7 @@
     "notes":null,
     "date_parsed":-49766400000,
     "parsed_dob":-49766400000,
+    "is_ambiguous_date":false,
     "demographics.age":57,
     "email_valid":true,
     "high_dti_flag":false
@@ -17186,6 +17668,7 @@
     "notes":null,
     "date_parsed":86313600000,
     "parsed_dob":86313600000,
+    "is_ambiguous_date":false,
     "demographics.age":53,
     "email_valid":true,
     "high_dti_flag":false
@@ -17218,7 +17701,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":696902400000,
+    "parsed_dob":694310400000,
+    "is_ambiguous_date":true,
     "demographics.age":34,
     "email_valid":true,
     "high_dti_flag":false
@@ -17256,6 +17740,7 @@
     "notes":null,
     "date_parsed":450316800000,
     "parsed_dob":450316800000,
+    "is_ambiguous_date":false,
     "demographics.age":41,
     "email_valid":true,
     "high_dti_flag":false
@@ -17296,8 +17781,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":794275200000,
-    "demographics.age":31,
+    "parsed_dob":796867200000,
+    "is_ambiguous_date":true,
+    "demographics.age":30,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -17329,8 +17815,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":391564800000,
-    "demographics.age":43,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -17370,8 +17857,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":958953600000,
-    "demographics.age":25,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -17404,6 +17892,7 @@
     "notes":null,
     "date_parsed":927417600000,
     "parsed_dob":927417600000,
+    "is_ambiguous_date":false,
     "demographics.age":26,
     "email_valid":true,
     "high_dti_flag":false
@@ -17436,8 +17925,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":500860800000,
-    "demographics.age":40,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -17469,8 +17959,9 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":191721600000,
-    "demographics.age":50,
+    "parsed_dob":null,
+    "is_ambiguous_date":false,
+    "demographics.age":null,
     "email_valid":true,
     "high_dti_flag":false
   },
@@ -17503,6 +17994,7 @@
     "notes":null,
     "date_parsed":270259200000,
     "parsed_dob":270259200000,
+    "is_ambiguous_date":false,
     "demographics.age":47,
     "email_valid":true,
     "high_dti_flag":false
@@ -17535,7 +18027,8 @@
     "financials.annual_salary":null,
     "notes":null,
     "date_parsed":null,
-    "parsed_dob":360374400000,
+    "parsed_dob":352684800000,
+    "is_ambiguous_date":true,
     "demographics.age":44,
     "email_valid":true,
     "high_dti_flag":false
