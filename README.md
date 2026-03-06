@@ -32,109 +32,321 @@ Our analysis identified significant data quality weaknesses, measurable disparat
 - `src/` - Python source code
 - `reports/` - Final deliverables
 
+# Dataset Evolution
 
-# 1. Data Quality Assessment
+## 1 Raw Dataset
+
+The raw dataset contains **full personally identifiable information (PII)** and inconsistent schema structures.
+
+Example attributes:
+
+- full_name
+- email
+- SSN
+- IP address
+- gender
+- date_of_birth
+- zip_code
+- financial data
+- spending behavior
+
+### Issues Observed
+
+- Sensitive personal identifiers stored in plaintext
+- Inconsistent gender encoding ("M", "Male", "F")
+- Multiple date formats
+- Missing timestamps
+- Nested JSON structures
+- No governance metadata
+- No retention policy
+
+This dataset represents a **high-risk governance scenario**.
+
+---
+
+# 1 Data Quality Assessment
 
 ## Dataset Overview
-- 502 applications
-- 21 flattened columns
-- Nested JSON structure normalized into tabular format
 
-## Key Findings
+- 502 loan applications
+- Nested JSON structure
+- Financial, demographic, behavioral, and decision data
 
-### 1. Inconsistent Data Types
-- `annual_income` stored as object instead of numeric.
-- Required coercion using `pd.to_numeric()`.
-
-Dimension: **Consistency**
+After normalization, the dataset contains **flattened columns suitable for analysis and modeling**.
 
 ---
 
-### 2. Missing Values
-- Missing financial fields in multiple records.
-- Missing rejection reasons for some denied applications.
+## Key Data Quality Findings
 
-Dimension: **Completeness**
+### 1 Inconsistent Data Types
 
----
+Example issue:
 
-### 3. Duplicate Records
-- Identified duplicate application IDs.
-- Risk of double-counting in model training.
+`annual_income` stored inconsistently across records.
 
-Dimension: **Accuracy**
+Remediation:
 
----
+- Converted using `pd.to_numeric()`.
 
-### 4. Invalid or Suspicious Values
-- Potential outliers in income and debt-to-income ratio.
-
-Dimension: **Validity**
+Data Quality Dimension: **Consistency**
 
 ---
 
-## Remediation Demonstrated
-- Type conversion and validation
-- Duplicate detection and removal
-- Missing value reporting
-- Numeric validation checks
+### 2 Missing Values
+
+Examples:
+
+- Missing `processing_timestamp`
+- Missing rejection reasons for denied loans
+- Missing derived demographic features
+
+Data Quality Dimension: **Completeness**
 
 ---
 
-# 2. Bias Detection & Fairness
+### 3 Duplicate Records
+
+Duplicate application IDs were detected.
+
+Risk:
+
+- Model training bias
+- Incorrect approval statistics
+
+Data Quality Dimension: **Uniqueness**
+
+---
+
+### 4 Invalid or Ambiguous Dates
+
+Multiple date formats were identified:
+
+- `YYYY-MM-DD`
+- `DD/MM/YYYY`
+- `YYYY/MM/DD`
+
+Some entries produced **ambiguous or unparsable dates**, resulting in missing derived ages.
+
+Data Quality Dimension: **Validity**
+
+---
+
+### 5 Derived Data Quality Indicators
+
+The cleaned dataset introduces additional validation features such as:
+
+- `email_valid`
+- `high_dti_flag`
+- `parsed_dob`
+- `demographics.age`
+
+These features support downstream data validation and analytics.
+
+---
+
+# 2 Bias Detection & Fairness
 
 ## Gender Disparate Impact
 
-We calculated the Disparate Impact (DI) ratio:
+We calculated the **Disparate Impact (DI) ratio**:
+
 
 DI = Approval Rate (Unprivileged Group) / Approval Rate (Privileged Group)
 
-Result:
-- DI < 0.8 → indicates potential disparate impact under the four-fifths rule.
 
-This suggests statistically significant gender-based disparities in approval decisions.
+Interpretation:
+
+- **DI < 0.8 → Potential discrimination under the Four-Fifths Rule**
+
+Results indicate **statistically significant gender disparities in approval outcomes**, suggesting possible algorithmic bias.
 
 ---
 
 ## Additional Bias Patterns
 
-- Approval rate varies across age groups.
-- ZIP code shows correlation with approval outcomes, indicating possible proxy discrimination.
+Our analysis revealed additional correlations:
 
-ZIP code may act as a proxy for protected characteristics.
+- Approval probability varies across **age groups**
+- **ZIP codes correlate with approval outcomes**
 
+ZIP codes may function as **proxy variables for protected attributes** such as race or socioeconomic status.
 
-# 3. Privacy & Governance Assessment
+This introduces **proxy discrimination risk** in automated decision-making.
 
-### 1. Personally Identifiable Information (PII) identified: 
-- Full Name 
-- Email Address 
-- Social Security Number (SSN) 
-- IP Address 
+---
+
+# 3 Privacy & Governance Assessment
+
+The raw dataset contains multiple **personally identifiable information (PII) attributes**, including:
+
+- Full Name
+- Email Address
+- Social Security Number
+- IP Address
 - Date of Birth
 - ZIP Code
 
-### 2. Identified GDPR Risks
-During the compliance audit of the raw dataset, we identified several critical regulatory vulnerabilities:
-* **Article 5 (Storage Limitation):** The schema lacked retention schedules, creating an illegal "data swamp" of indefinitely stored historical records.
-* **Article 6 (Lawful Basis):** A complete absence of timestamped consent mechanisms required for automated profiling.
-* **Article 14 (Transparency):** Missing data lineage tracking to identify the vendor origin of external financial aggregates.
-* **Article 17 (Right to Erasure):** The schema lacked the programmatic flags necessary to process and execute "Right to be Forgotten" deletion requests.
+These attributes expose **high privacy risk** if not governed properly.
 
-### Governance Recommendations
-To architect a compliant, privacy-preserving pipeline, we suggested the following "Privacy by Design" controls into the dataset:
-* **Automated Data Minimization & Anonymization:** Programmatically dropped direct identifiers (names, emails, IPs), pseudonymized SSNs, and generalized Dates of Birth.
-* **Cryptographic Consent Mechanisms:** Enforced mandatory `consent_timestamp` gateways for all data ingestion payloads.
-* **Automated Data Lifecycle:** Implemented programmatic 180-day `retention_until` schedules for rejected applications and `is_deleted` flags for erasure compliance.
-* **Algorithmic Audit Trails (Traceability):** Tagged every automated decision with exact `model_version` metadata to satisfy EU AI Act requirements.
-* **Mandatory Human-in-the-Loop (Oversight):** Routed rejected applications to a human review queue to prevent unmitigated algorithmic bias.
-* **Ethical Feature Engineering:** Permanently deprecated highly intrusive behavioral tracking (`spending_behavior`) to reduce ethical and privacy risks.
-* **Data Lineage Tracking:** Hardcoded `data_source` metadata to track the origin of external financial metrics.
+---
+
+# Identified GDPR Compliance Risks
+
+## Article 5 — Storage Limitation
+
+No retention policy existed, meaning personal data could be stored indefinitely.
+
+Risk:
+
+Creation of a **data swamp containing historical personal data**.
+
+---
+
+## Article 6 — Lawful Basis for Processing
+
+No evidence of **user consent for automated decision-making**.
+
+Risk:
+
+Illegal profiling under GDPR.
+
+---
+
+## Article 14 — Transparency
+
+The dataset lacked **data lineage information**, making it impossible to identify the source of external financial data.
+
+---
+
+## Article 17 — Right to Erasure
+
+No mechanism existed to process **data deletion requests**.
+
+---
+
+# Governance Transformation (Compliant Dataset)
+
+To address these risks, we implemented a **privacy-by-design transformation pipeline**, producing a compliant dataset.
+
+Key governance improvements include:
+
+---
+
+## Data Minimization & Anonymization
+
+Sensitive identifiers were removed or masked:
+
+- SSN → pseudonymized (`***-**-XXXX`)
+- Full names removed
+- Emails removed
+- IP addresses removed
+- Date of birth generalized to **birth year**
+
+This significantly reduces re-identification risk.
+
+---
+
+## Governance Metadata
+
+A governance metadata block was introduced:
+
+
+governance_metadata:
+consent_timestamp
+data_source
+retention_until
+is_deleted
+
+
+Purpose:
+
+- GDPR traceability
+- data lifecycle management
+- regulatory auditing
+
+---
+
+## Algorithmic Audit Trails
+
+Each automated decision now includes:
+
+
+audit_trail:
+model_version
+requires_human_review
+human_reviewer_id
+
+
+This ensures **algorithmic accountability and traceability**.
+
+---
+
+## Human-in-the-Loop Oversight
+
+Rejected applications are flagged for **mandatory human review**.
+
+Purpose:
+
+- reduce algorithmic bias
+- improve fairness
+- comply with EU AI Act oversight requirements
+
+---
+
+## Data Lifecycle Management
+
+Each record includes a retention schedule:
+
+
+retention_until
+
+
+Rejected applications are automatically scheduled for **deletion after 180 days**, preventing indefinite storage.
+
+---
+
+## Data Lineage Tracking
+
+The compliant dataset records the origin of the data:
+
+
+data_source: NovaCred_Web_Portal_v2
+
+
+This ensures **full data provenance tracking**.
+
+---
 
 # Conclusion
 
-Our audit demonstrates that NovaCred faces:
+Our audit demonstrates that NovaCred faces three major categories of risk:
 
-- Data quality risks impacting model reliability
-- Measurable disparate impact in lending decisions
-- Significant GDPR compliance gaps
+### Data Quality Risks
+
+- inconsistent formats
+- missing values
+- duplicate records
+- ambiguous dates
+
+### Algorithmic Fairness Risks
+
+- gender-based disparate impact
+- proxy discrimination through ZIP codes
+
+### Regulatory Compliance Risks
+
+- lack of consent mechanisms
+- indefinite data storage
+- missing audit trails
+- absence of deletion mechanisms
+
+Through the implementation of **data cleaning, bias auditing, and governance-by-design transformations**, we redesigned the dataset into a **privacy-preserving and regulation-ready architecture**.
+
+This governance pipeline significantly improves:
+
+- data reliability
+- fairness oversight
+- regulatory compliance
+- operational accountability.
+# 1. Data Quality Assessment
+t GDPR compliance gaps
