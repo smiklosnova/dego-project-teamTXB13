@@ -112,7 +112,7 @@ ZIP code may act as a proxy for protected characteristics.
 
 ## GDPR Risks
 
-
+Personally Identifiable Information (PII)identified: Full Name, Email Address, Social Security Number (SSN), IP Address, Date of Birth, ZIP Code.
 
 ## Governance Recommendations
 
