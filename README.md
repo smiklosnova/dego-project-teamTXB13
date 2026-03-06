@@ -106,9 +106,6 @@ ZIP code may act as a proxy for protected characteristics.
 
 # 3. Privacy & Governance Assessment
 
-
-## GDPR Risks
-
 ### 1. Personally Identifiable Information (PII) identified: 
 - Full Name 
 - Email Address 
@@ -117,20 +114,22 @@ ZIP code may act as a proxy for protected characteristics.
 - Date of Birth
 - ZIP Code
 
-### 2. Missing GDPR Compliance Fields:
-- Consent: The raw data lacks a "consent_timestamp", which violates the *GDPR Article 6* (Lawfulness of processing), since NovaCred is not able to show that applicants consented to the data processing.
-- Data Retention: There is no "retention_until" date. And this violates the *GDPR Article 5* (Storage Limitation), which leads to unlimited storage of sensitive applicant data.
+### 2. Identified GDPR Risks
+During the compliance audit of the raw dataset, we identified several critical regulatory vulnerabilities:
+* **Article 5 (Storage Limitation):** The schema lacked retention schedules, creating an illegal "data swamp" of indefinitely stored historical records.
+* **Article 6 (Lawful Basis):** A complete absence of timestamped consent mechanisms required for automated profiling.
+* **Article 14 (Transparency):** Missing data lineage tracking to identify the vendor origin of external financial aggregates.
+* **Article 17 (Right to Erasure):** The schema lacked the programmatic flags necessary to process and execute "Right to be Forgotten" deletion requests.
 
-### 3. EU AI Act Classification:
-- Under the EU AI Act, algorithms used for credit scoring are classified as *High-Risk AI Systems*. This requires mandatory fairness testing and strict human oversight.
-
-## Governance Recommendations
-
-1. **Implement Consent Mechanisms:** 
-   - Add mandatory tracking for when and how users consent to data processing before their application is scored.
-2. **Enforce Data Retention Policies:** Automate the deletion of PII for rejected applications after a legally justified period.
-3. **Establish Audit Trails:** Log every automated decision with the specific model version and inputs used to ensure explainability.
-4. **Require Human Oversight:** Implement a "Human-in-the-loop" policy where any algorithmic rejection is reviewed by a human agent to prevent automated discrimination.
+### Governance Recommendations
+To architect a compliant, privacy-preserving pipeline, we suggested the following "Privacy by Design" controls into the dataset:
+* **Automated Data Minimization & Anonymization:** Programmatically dropped direct identifiers (names, emails, IPs), pseudonymized SSNs, and generalized Dates of Birth.
+* **Cryptographic Consent Mechanisms:** Enforced mandatory `consent_timestamp` gateways for all data ingestion payloads.
+* **Automated Data Lifecycle:** Implemented programmatic 180-day `retention_until` schedules for rejected applications and `is_deleted` flags for erasure compliance.
+* **Algorithmic Audit Trails (Traceability):** Tagged every automated decision with exact `model_version` metadata to satisfy EU AI Act requirements.
+* **Mandatory Human-in-the-Loop (Oversight):** Routed rejected applications to a human review queue to prevent unmitigated algorithmic bias.
+* **Ethical Feature Engineering:** Permanently deprecated highly intrusive behavioral tracking (`spending_behavior`) to reduce ethical and privacy risks.
+* **Data Lineage Tracking:** Hardcoded `data_source` metadata to track the origin of external financial metrics.
 
 # Conclusion
 
