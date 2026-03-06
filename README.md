@@ -12,7 +12,7 @@ DeGo Assignment TXB13 Team
 | Schieszler Miki | Data Engineer | Data loading, JSON normalization, data cleaning pipeline, data quality checks |
 | Gabriel Novais Vieira | Governance Officer | GDPR mapping, privacy assessment, AI Act classification, governance recommendations |
 
-\## Project Description
+## Project Description
 
 
 As the Data Governance Task Force for NovaCred, we conducted a comprehensive audit of 502 historical credit applications to assess:
@@ -25,15 +25,12 @@ Our analysis identified significant data quality weaknesses, measurable disparat
 
 ---
 
-\## Structure
+## Structure
 
-\- ‘ data /‘ - Dataset files
-
-\- ‘ notebooks /‘ - Jupyter analysis notebooks
-
-\- ‘ src /‘ - Python source code
-
-\- ‘ reports /‘ - Final deliverables
+- `data/` - Dataset files
+- `notebooks/` - Jupyter analysis notebooks
+- `src/` - Python source code
+- `reports/` - Final deliverables
 
 
 # 1. Data Quality Assessment
@@ -112,12 +109,28 @@ ZIP code may act as a proxy for protected characteristics.
 
 ## GDPR Risks
 
-Personally Identifiable Information (PII)identified: Full Name, Email Address, Social Security Number (SSN), IP Address, Date of Birth, ZIP Code.
+### 1. Personally Identifiable Information (PII) identified: 
+- Full Name 
+- Email Address 
+- Social Security Number (SSN) 
+- IP Address 
+- Date of Birth
+- ZIP Code
+
+### 2. Missing GDPR Compliance Fields:
+- Consent: The raw data lacks a "consent_timestamp", which violates the *GDPR Article 6* (Lawfulness of processing), since NovaCred is not able to show that applicants consented to the data processing.
+- Data Retention: There is no "retention_until" date. And this violates the *GDPR Article 5* (Storage Limitation), which leads to unlimited storage of sensitive applicant data.
+
+### 3. EU AI Act Classification:
+- Under the EU AI Act, algorithms used for credit scoring are classified as *High-Risk AI Systems*. This requires mandatory fairness testing and strict human oversight.
 
 ## Governance Recommendations
 
-
-
+1. **Implement Consent Mechanisms:** 
+   - Add mandatory tracking for when and how users consent to data processing before their application is scored.
+2. **Enforce Data Retention Policies:** Automate the deletion of PII for rejected applications after a legally justified period.
+3. **Establish Audit Trails:** Log every automated decision with the specific model version and inputs used to ensure explainability.
+4. **Require Human Oversight:** Implement a "Human-in-the-loop" policy where any algorithmic rejection is reviewed by a human agent to prevent automated discrimination.
 
 # Conclusion
 
