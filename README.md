@@ -8,7 +8,7 @@ DeGo Assignment TXB13 Team
 | Name | Role | Responsibilities |
 |------|------|------------------|
 | Amal Boulila | Product Lead | Project coordination, README documentation, executive summary, presentation structure, governance synthesis |
-| Milena | Data Scientist | Bias analysis, fairness metrics (Disparate Impact), statistical testing, visualizations |
+| Milena Kurtiak | Data Scientist | Bias analysis, fairness metrics (Disparate Impact), statistical testing, visualizations |
 | Schieszler Miki | Data Engineer | Data loading, JSON normalization, data cleaning pipeline, data quality checks |
 | Gabriel Novais Vieira | Governance Officer | GDPR mapping, privacy assessment, AI Act classification, governance recommendations |
 
